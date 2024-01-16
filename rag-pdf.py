@@ -85,7 +85,6 @@ chunks = text_to_chunks(text_list)
 for chunk in chunks:
     print(chunk + '\n')
 
-%%time
 # Load the model from TF Hub
 class MiniLML6V2EmbeddingFunction(EmbeddingFunction):
     MODEL = SentenceTransformer('all-MiniLM-L6-v2')
