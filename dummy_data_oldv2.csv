@@ -1,0 +1,1001 @@
+Incident Number,Incident Title,Incident Description,Assigned Team,Resolution,Product Category,Priority,SLA Time,Incident Date,Resolution Date,Days to Resolve
+INC00000,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2023-12-29,2024-01-06,8
+INC00001,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,High,24 Hours,2023-12-19,2023-12-31,12
+INC00002,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,High,24 Hours,2024-01-09,2024-01-20,11
+INC00003,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Critical,4 Hours,2024-01-09,2024-01-13,4
+INC00004,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Critical,4 Hours,2023-12-23,2023-12-31,8
+INC00005,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,High,24 Hours,2024-01-01,2024-01-15,14
+INC00006,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Low,1 Week,2023-12-25,2024-01-02,8
+INC00007,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Closed,Hardware,Critical,4 Hours,2023-12-21,2023-12-21,0
+INC00008,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,High,24 Hours,2023-12-23,2023-12-28,5
+INC00009,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,High,24 Hours,2023-12-25,2024-01-01,7
+INC00010,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,Critical,4 Hours,2023-12-23,2023-12-26,3
+INC00011,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,High,24 Hours,2023-12-17,2023-12-24,7
+INC00012,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Critical,4 Hours,2023-12-17,2023-12-18,1
+INC00013,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,Medium,3 Days,2023-12-16,2023-12-18,2
+INC00014,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,High,24 Hours,2023-12-13,2023-12-16,3
+INC00015,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Medium,3 Days,2023-12-29,2023-12-29,0
+INC00016,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2023-12-12,2023-12-23,11
+INC00017,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Storage,High,24 Hours,2023-12-30,2024-01-09,10
+INC00018,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,High,24 Hours,2023-12-12,2023-12-14,2
+INC00019,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,High,24 Hours,2023-12-23,2024-01-07,15
+INC00020,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Low,1 Week,2023-12-10,2023-12-20,10
+INC00021,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Escalated,Hardware,High,24 Hours,2024-01-07,2024-01-14,7
+INC00022,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,Low,1 Week,2024-01-07,2024-01-12,5
+INC00023,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Medium,3 Days,2023-12-25,2023-12-25,0
+INC00024,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Low,1 Week,2023-12-19,2023-12-29,10
+INC00025,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,Medium,3 Days,2023-12-14,2023-12-14,0
+INC00026,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,High,24 Hours,2023-12-28,2024-01-09,12
+INC00027,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,High,24 Hours,2023-12-28,2024-01-07,10
+INC00028,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Critical,4 Hours,2023-12-17,2023-12-21,4
+INC00029,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,Critical,4 Hours,2023-12-16,2023-12-27,11
+INC00030,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,Low,1 Week,2023-12-29,2024-01-08,10
+INC00031,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Medium,3 Days,2023-12-30,2024-01-01,2
+INC00032,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Medium,3 Days,2024-01-07,2024-01-08,1
+INC00033,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Critical,4 Hours,2023-12-19,2023-12-20,1
+INC00034,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Medium,3 Days,2023-12-27,2023-12-30,3
+INC00035,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Closed,Hardware,High,24 Hours,2023-12-12,2023-12-17,5
+INC00036,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,High,24 Hours,2023-12-28,2024-01-11,14
+INC00037,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-05,2024-01-11,6
+INC00038,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,Critical,4 Hours,2023-12-29,2024-01-03,5
+INC00039,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,Medium,3 Days,2023-12-17,2023-12-29,12
+INC00040,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,High,24 Hours,2023-12-17,2023-12-26,9
+INC00041,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-27,2024-01-07,11
+INC00042,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Medium,3 Days,2023-12-15,2023-12-15,0
+INC00043,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Medium,3 Days,2024-01-03,2024-01-18,15
+INC00044,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Medium,3 Days,2023-12-18,2023-12-30,12
+INC00045,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,Low,1 Week,2024-01-09,2024-01-15,6
+INC00046,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,High,24 Hours,2024-01-09,2024-01-18,9
+INC00047,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Medium,3 Days,2023-12-26,2024-01-07,12
+INC00048,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Low,1 Week,2024-01-03,2024-01-18,15
+INC00049,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Low,1 Week,2024-01-04,2024-01-11,7
+INC00050,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,Critical,4 Hours,2023-12-28,2024-01-01,4
+INC00051,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Software,Critical,4 Hours,2023-12-10,2023-12-17,7
+INC00052,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Medium,3 Days,2024-01-07,2024-01-13,6
+INC00053,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Critical,4 Hours,2023-12-29,2024-01-08,10
+INC00054,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Critical,4 Hours,2023-12-29,2024-01-02,4
+INC00055,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Low,1 Week,2023-12-21,2023-12-30,9
+INC00056,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Critical,4 Hours,2024-01-05,2024-01-20,15
+INC00057,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,Medium,3 Days,2023-12-31,2024-01-14,14
+INC00058,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Low,1 Week,2023-12-22,2024-01-02,11
+INC00059,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Critical,4 Hours,2023-12-17,2023-12-28,11
+INC00060,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,Low,1 Week,2023-12-10,2023-12-22,12
+INC00061,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-06,2024-01-07,1
+INC00062,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Low,1 Week,2023-12-11,2023-12-13,2
+INC00063,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,Medium,3 Days,2023-12-27,2023-12-30,3
+INC00064,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Closed,Hardware,Medium,3 Days,2023-12-31,2024-01-04,4
+INC00065,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,High,24 Hours,2023-12-15,2023-12-24,9
+INC00066,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Medium,3 Days,2023-12-24,2024-01-04,11
+INC00067,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Medium,3 Days,2023-12-23,2023-12-24,1
+INC00068,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2024-01-05,2024-01-11,6
+INC00069,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Critical,4 Hours,2023-12-30,2024-01-09,10
+INC00070,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,High,24 Hours,2023-12-29,2024-01-11,13
+INC00071,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Resolved,Hardware,Critical,4 Hours,2023-12-16,2023-12-18,2
+INC00072,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,Critical,4 Hours,2023-12-20,2023-12-30,10
+INC00073,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Medium,3 Days,2023-12-31,2024-01-13,13
+INC00074,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,Critical,4 Hours,2023-12-16,2023-12-25,9
+INC00075,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Storage,Critical,4 Hours,2023-12-14,2023-12-15,1
+INC00076,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Critical,4 Hours,2023-12-11,2023-12-11,0
+INC00077,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Low,1 Week,2023-12-19,2023-12-21,2
+INC00078,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Medium,3 Days,2024-01-05,2024-01-12,7
+INC00079,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Storage,High,24 Hours,2023-12-21,2023-12-25,4
+INC00080,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Storage,Critical,4 Hours,2024-01-04,2024-01-19,15
+INC00081,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Low,1 Week,2023-12-20,2023-12-28,8
+INC00082,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,High,24 Hours,2023-12-29,2024-01-01,3
+INC00083,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Medium,3 Days,2023-12-21,2023-12-26,5
+INC00084,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2024-01-05,2024-01-14,9
+INC00085,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Closed,Hardware,Medium,3 Days,2024-01-07,2024-01-16,9
+INC00086,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2024-01-03,2024-01-10,7
+INC00087,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,Low,1 Week,2024-01-04,2024-01-05,1
+INC00088,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,High,24 Hours,2023-12-31,2024-01-03,3
+INC00089,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2024-01-06,2024-01-07,1
+INC00090,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Low,1 Week,2024-01-09,2024-01-13,4
+INC00091,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,High,24 Hours,2023-12-23,2024-01-06,14
+INC00092,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Medium,3 Days,2023-12-14,2023-12-17,3
+INC00093,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,High,24 Hours,2023-12-14,2023-12-29,15
+INC00094,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Low,1 Week,2024-01-01,2024-01-07,6
+INC00095,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Pending,Hardware,Critical,4 Hours,2023-12-23,2024-01-01,9
+INC00096,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Pending,Hardware,Critical,4 Hours,2023-12-17,2024-01-01,15
+INC00097,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Low,1 Week,2023-12-14,2023-12-14,0
+INC00098,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,High,24 Hours,2023-12-24,2023-12-27,3
+INC00099,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Critical,4 Hours,2023-12-15,2023-12-18,3
+INC00100,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Low,1 Week,2023-12-24,2023-12-24,0
+INC00101,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Escalated,Hardware,Critical,4 Hours,2024-01-02,2024-01-08,6
+INC00102,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Low,1 Week,2023-12-30,2024-01-05,6
+INC00103,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,Low,1 Week,2023-12-15,2023-12-15,0
+INC00104,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,Critical,4 Hours,2023-12-26,2024-01-05,10
+INC00105,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,High,24 Hours,2023-12-26,2023-12-26,0
+INC00106,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,High,24 Hours,2024-01-01,2024-01-02,1
+INC00107,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Critical,4 Hours,2024-01-04,2024-01-08,4
+INC00108,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Low,1 Week,2023-12-25,2024-01-08,14
+INC00109,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Pending,Hardware,Low,1 Week,2024-01-06,2024-01-07,1
+INC00110,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Critical,4 Hours,2023-12-20,2024-01-01,12
+INC00111,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Critical,4 Hours,2024-01-04,2024-01-05,1
+INC00112,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Medium,3 Days,2023-12-27,2024-01-09,13
+INC00113,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Critical,4 Hours,2023-12-17,2023-12-27,10
+INC00114,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Critical,4 Hours,2024-01-08,2024-01-13,5
+INC00115,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,High,24 Hours,2023-12-15,2023-12-20,5
+INC00116,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Software,Medium,3 Days,2023-12-27,2024-01-08,12
+INC00117,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Low,1 Week,2024-01-05,2024-01-10,5
+INC00118,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Medium,3 Days,2023-12-30,2024-01-01,2
+INC00119,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Low,1 Week,2023-12-30,2024-01-06,7
+INC00120,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Medium,3 Days,2023-12-14,2023-12-21,7
+INC00121,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,Low,1 Week,2024-01-01,2024-01-09,8
+INC00122,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Low,1 Week,2023-12-24,2024-01-05,12
+INC00123,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Critical,4 Hours,2023-12-14,2023-12-18,4
+INC00124,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,High,24 Hours,2023-12-25,2024-01-03,9
+INC00125,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Critical,4 Hours,2023-12-26,2024-01-04,9
+INC00126,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,Medium,3 Days,2023-12-17,2023-12-24,7
+INC00127,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,Low,1 Week,2023-12-26,2023-12-31,5
+INC00128,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,Critical,4 Hours,2023-12-12,2023-12-14,2
+INC00129,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,High,24 Hours,2023-12-28,2024-01-07,10
+INC00130,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2023-12-19,2023-12-28,9
+INC00131,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,High,24 Hours,2023-12-27,2023-12-27,0
+INC00132,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Medium,3 Days,2024-01-09,2024-01-20,11
+INC00133,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,High,24 Hours,2023-12-27,2023-12-28,1
+INC00134,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Critical,4 Hours,2023-12-10,2023-12-23,13
+INC00135,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,High,24 Hours,2023-12-10,2023-12-15,5
+INC00136,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Low,1 Week,2024-01-05,2024-01-05,0
+INC00137,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Software,Critical,4 Hours,2023-12-27,2024-01-08,12
+INC00138,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,Critical,4 Hours,2023-12-17,2023-12-19,2
+INC00139,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Closed,Hardware,Medium,3 Days,2023-12-15,2023-12-29,14
+INC00140,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,High,24 Hours,2023-12-11,2023-12-14,3
+INC00141,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Low,1 Week,2023-12-26,2023-12-29,3
+INC00142,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Critical,4 Hours,2024-01-01,2024-01-03,2
+INC00143,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,Medium,3 Days,2024-01-06,2024-01-15,9
+INC00144,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,High,24 Hours,2023-12-14,2023-12-14,0
+INC00145,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,High,24 Hours,2024-01-08,2024-01-21,13
+INC00146,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Critical,4 Hours,2024-01-09,2024-01-11,2
+INC00147,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Medium,3 Days,2023-12-17,2023-12-24,7
+INC00148,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2023-12-31,2024-01-15,15
+INC00149,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,High,24 Hours,2023-12-16,2023-12-26,10
+INC00150,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Closed,Hardware,Low,1 Week,2023-12-14,2023-12-17,3
+INC00151,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Medium,3 Days,2023-12-20,2023-12-26,6
+INC00152,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Critical,4 Hours,2023-12-17,2023-12-19,2
+INC00153,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Low,1 Week,2023-12-24,2023-12-24,0
+INC00154,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Low,1 Week,2023-12-20,2023-12-31,11
+INC00155,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Critical,4 Hours,2023-12-15,2023-12-30,15
+INC00156,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Medium,3 Days,2024-01-09,2024-01-14,5
+INC00157,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2024-01-09,2024-01-19,10
+INC00158,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Critical,4 Hours,2024-01-09,2024-01-20,11
+INC00159,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,High,24 Hours,2023-12-25,2024-01-06,12
+INC00160,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Critical,4 Hours,2023-12-16,2023-12-25,9
+INC00161,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,Critical,4 Hours,2023-12-24,2024-01-03,10
+INC00162,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Medium,3 Days,2023-12-20,2023-12-31,11
+INC00163,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,High,24 Hours,2024-01-07,2024-01-11,4
+INC00164,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,Low,1 Week,2023-12-30,2024-01-06,7
+INC00165,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Critical,4 Hours,2023-12-24,2023-12-28,4
+INC00166,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Medium,3 Days,2023-12-16,2023-12-20,4
+INC00167,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Low,1 Week,2023-12-27,2024-01-01,5
+INC00168,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Medium,3 Days,2024-01-01,2024-01-12,11
+INC00169,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,Low,1 Week,2023-12-15,2023-12-26,11
+INC00170,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Critical,4 Hours,2024-01-04,2024-01-07,3
+INC00171,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Low,1 Week,2023-12-12,2023-12-23,11
+INC00172,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Critical,4 Hours,2023-12-23,2024-01-06,14
+INC00173,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,Medium,3 Days,2024-01-07,2024-01-13,6
+INC00174,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,High,24 Hours,2023-12-16,2023-12-30,14
+INC00175,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Medium,3 Days,2023-12-13,2023-12-25,12
+INC00176,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,High,24 Hours,2023-12-27,2024-01-06,10
+INC00177,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Critical,4 Hours,2023-12-23,2024-01-07,15
+INC00178,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Low,1 Week,2023-12-18,2023-12-20,2
+INC00179,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,High,24 Hours,2023-12-24,2023-12-31,7
+INC00180,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,Low,1 Week,2024-01-03,2024-01-11,8
+INC00181,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Critical,4 Hours,2024-01-04,2024-01-09,5
+INC00182,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Critical,4 Hours,2023-12-18,2023-12-18,0
+INC00183,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-08,2024-01-18,10
+INC00184,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Low,1 Week,2023-12-24,2024-01-08,15
+INC00185,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-29,2024-01-08,10
+INC00186,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Medium,3 Days,2023-12-12,2023-12-15,3
+INC00187,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,High,24 Hours,2023-12-24,2024-01-05,12
+INC00188,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,Low,1 Week,2024-01-04,2024-01-16,12
+INC00189,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,High,24 Hours,2023-12-18,2023-12-30,12
+INC00190,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Critical,4 Hours,2024-01-07,2024-01-10,3
+INC00191,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Low,1 Week,2023-12-11,2023-12-20,9
+INC00192,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,Critical,4 Hours,2023-12-22,2023-12-24,2
+INC00193,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Medium,3 Days,2024-01-09,2024-01-18,9
+INC00194,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,High,24 Hours,2023-12-27,2024-01-08,12
+INC00195,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,Critical,4 Hours,2023-12-18,2023-12-30,12
+INC00196,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,High,24 Hours,2023-12-14,2023-12-25,11
+INC00197,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,Low,1 Week,2023-12-24,2024-01-08,15
+INC00198,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Low,1 Week,2023-12-11,2023-12-17,6
+INC00199,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,Medium,3 Days,2023-12-21,2023-12-24,3
+INC00200,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,Low,1 Week,2024-01-04,2024-01-07,3
+INC00201,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,High,24 Hours,2023-12-11,2023-12-11,0
+INC00202,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,Low,1 Week,2023-12-17,2023-12-19,2
+INC00203,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Low,1 Week,2024-01-06,2024-01-18,12
+INC00204,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,High,24 Hours,2023-12-28,2023-12-29,1
+INC00205,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,High,24 Hours,2023-12-30,2024-01-09,10
+INC00206,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Medium,3 Days,2023-12-14,2023-12-23,9
+INC00207,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Low,1 Week,2023-12-30,2024-01-02,3
+INC00208,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,High,24 Hours,2023-12-30,2024-01-02,3
+INC00209,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Software,High,24 Hours,2023-12-25,2023-12-25,0
+INC00210,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Medium,3 Days,2023-12-29,2024-01-08,10
+INC00211,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,High,24 Hours,2024-01-08,2024-01-19,11
+INC00212,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Low,1 Week,2023-12-17,2023-12-19,2
+INC00213,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Critical,4 Hours,2024-01-07,2024-01-10,3
+INC00214,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,High,24 Hours,2023-12-10,2023-12-23,13
+INC00215,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,High,24 Hours,2023-12-15,2023-12-18,3
+INC00216,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,High,24 Hours,2023-12-27,2024-01-04,8
+INC00217,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,Low,1 Week,2023-12-30,2023-12-30,0
+INC00218,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,Critical,4 Hours,2024-01-03,2024-01-11,8
+INC00219,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Critical,4 Hours,2023-12-27,2024-01-05,9
+INC00220,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,High,24 Hours,2024-01-03,2024-01-09,6
+INC00221,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Low,1 Week,2024-01-07,2024-01-21,14
+INC00222,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,High,24 Hours,2024-01-07,2024-01-15,8
+INC00223,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Medium,3 Days,2024-01-08,2024-01-11,3
+INC00224,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Low,1 Week,2023-12-30,2024-01-09,10
+INC00225,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Critical,4 Hours,2023-12-10,2023-12-24,14
+INC00226,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Storage,Medium,3 Days,2023-12-29,2024-01-08,10
+INC00227,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Critical,4 Hours,2023-12-12,2023-12-15,3
+INC00228,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Low,1 Week,2023-12-16,2023-12-18,2
+INC00229,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,Critical,4 Hours,2024-01-09,2024-01-17,8
+INC00230,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,Critical,4 Hours,2023-12-19,2023-12-29,10
+INC00231,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,High,24 Hours,2023-12-10,2023-12-21,11
+INC00232,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,Low,1 Week,2024-01-05,2024-01-20,15
+INC00233,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Low,1 Week,2023-12-18,2023-12-23,5
+INC00234,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Low,1 Week,2023-12-25,2023-12-31,6
+INC00235,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Software,Medium,3 Days,2023-12-20,2023-12-30,10
+INC00236,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,High,24 Hours,2023-12-11,2023-12-19,8
+INC00237,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Medium,3 Days,2023-12-13,2023-12-19,6
+INC00238,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,Critical,4 Hours,2023-12-23,2023-12-25,2
+INC00239,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Pending,Hardware,Critical,4 Hours,2023-12-28,2023-12-29,1
+INC00240,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Software,High,24 Hours,2023-12-13,2023-12-22,9
+INC00241,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Low,1 Week,2024-01-08,2024-01-10,2
+INC00242,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Medium,3 Days,2023-12-25,2024-01-02,8
+INC00243,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Networking,High,24 Hours,2023-12-18,2023-12-21,3
+INC00244,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,High,24 Hours,2024-01-06,2024-01-06,0
+INC00245,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Critical,4 Hours,2023-12-19,2023-12-20,1
+INC00246,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2023-12-13,2023-12-25,12
+INC00247,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Medium,3 Days,2023-12-12,2023-12-22,10
+INC00248,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Medium,3 Days,2024-01-07,2024-01-11,4
+INC00249,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Pending,Hardware,High,24 Hours,2023-12-24,2023-12-26,2
+INC00250,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,High,24 Hours,2023-12-25,2023-12-30,5
+INC00251,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Low,1 Week,2024-01-07,2024-01-10,3
+INC00252,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,Low,1 Week,2023-12-21,2023-12-22,1
+INC00253,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Low,1 Week,2024-01-09,2024-01-11,2
+INC00254,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Low,1 Week,2024-01-08,2024-01-19,11
+INC00255,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,High,24 Hours,2023-12-23,2024-01-07,15
+INC00256,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Low,1 Week,2023-12-28,2024-01-04,7
+INC00257,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Medium,3 Days,2023-12-20,2023-12-31,11
+INC00258,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,High,24 Hours,2023-12-28,2024-01-02,5
+INC00259,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Critical,4 Hours,2024-01-09,2024-01-14,5
+INC00260,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Resolved,Hardware,High,24 Hours,2023-12-29,2024-01-11,13
+INC00261,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,High,24 Hours,2023-12-19,2024-01-03,15
+INC00262,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Low,1 Week,2024-01-08,2024-01-11,3
+INC00263,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Software,Medium,3 Days,2024-01-09,2024-01-20,11
+INC00264,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Low,1 Week,2023-12-30,2024-01-03,4
+INC00265,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Low,1 Week,2023-12-21,2024-01-05,15
+INC00266,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Low,1 Week,2023-12-18,2023-12-30,12
+INC00267,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2023-12-15,2023-12-18,3
+INC00268,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Critical,4 Hours,2023-12-16,2023-12-16,0
+INC00269,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,High,24 Hours,2023-12-25,2024-01-08,14
+INC00270,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,High,24 Hours,2023-12-22,2023-12-27,5
+INC00271,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,High,24 Hours,2024-01-08,2024-01-22,14
+INC00272,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,Low,1 Week,2024-01-04,2024-01-11,7
+INC00273,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Medium,3 Days,2023-12-28,2024-01-03,6
+INC00274,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Critical,4 Hours,2024-01-06,2024-01-15,9
+INC00275,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Critical,4 Hours,2023-12-13,2023-12-25,12
+INC00276,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Medium,3 Days,2023-12-30,2024-01-13,14
+INC00277,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Medium,3 Days,2023-12-12,2023-12-22,10
+INC00278,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,Medium,3 Days,2023-12-10,2023-12-23,13
+INC00279,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Medium,3 Days,2023-12-27,2024-01-01,5
+INC00280,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,High,24 Hours,2023-12-18,2023-12-20,2
+INC00281,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,Low,1 Week,2023-12-19,2023-12-20,1
+INC00282,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,High,24 Hours,2024-01-02,2024-01-08,6
+INC00283,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,Medium,3 Days,2023-12-22,2024-01-03,12
+INC00284,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,High,24 Hours,2023-12-10,2023-12-21,11
+INC00285,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Low,1 Week,2023-12-11,2023-12-11,0
+INC00286,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Low,1 Week,2023-12-23,2024-01-03,11
+INC00287,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Medium,3 Days,2023-12-11,2023-12-23,12
+INC00288,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,High,24 Hours,2023-12-16,2023-12-22,6
+INC00289,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,Low,1 Week,2023-12-20,2023-12-31,11
+INC00290,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Critical,4 Hours,2024-01-07,2024-01-15,8
+INC00291,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Critical,4 Hours,2024-01-04,2024-01-07,3
+INC00292,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Critical,4 Hours,2023-12-28,2024-01-11,14
+INC00293,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Low,1 Week,2023-12-14,2023-12-26,12
+INC00294,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Closed,Hardware,Critical,4 Hours,2023-12-27,2024-01-08,12
+INC00295,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Low,1 Week,2023-12-25,2024-01-09,15
+INC00296,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,High,24 Hours,2024-01-07,2024-01-21,14
+INC00297,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Low,1 Week,2023-12-23,2023-12-28,5
+INC00298,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,High,24 Hours,2023-12-15,2023-12-27,12
+INC00299,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,High,24 Hours,2023-12-29,2023-12-30,1
+INC00300,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Medium,3 Days,2023-12-14,2023-12-21,7
+INC00301,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Medium,3 Days,2023-12-20,2023-12-28,8
+INC00302,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,High,24 Hours,2023-12-12,2023-12-16,4
+INC00303,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,High,24 Hours,2023-12-20,2024-01-03,14
+INC00304,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Critical,4 Hours,2023-12-13,2023-12-18,5
+INC00305,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,Low,1 Week,2023-12-25,2024-01-02,8
+INC00306,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,Critical,4 Hours,2023-12-29,2024-01-10,12
+INC00307,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2024-01-03,2024-01-09,6
+INC00308,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Low,1 Week,2024-01-07,2024-01-16,9
+INC00309,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,High,24 Hours,2023-12-14,2023-12-26,12
+INC00310,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,High,24 Hours,2023-12-11,2023-12-17,6
+INC00311,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Low,1 Week,2024-01-01,2024-01-02,1
+INC00312,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,High,24 Hours,2024-01-02,2024-01-15,13
+INC00313,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Critical,4 Hours,2023-12-11,2023-12-12,1
+INC00314,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Networking,Medium,3 Days,2023-12-30,2024-01-12,13
+INC00315,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,High,24 Hours,2023-12-24,2024-01-01,8
+INC00316,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,High,24 Hours,2023-12-13,2023-12-19,6
+INC00317,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Medium,3 Days,2023-12-30,2024-01-06,7
+INC00318,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,Medium,3 Days,2024-01-08,2024-01-23,15
+INC00319,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Resolved,Hardware,High,24 Hours,2024-01-02,2024-01-10,8
+INC00320,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Critical,4 Hours,2023-12-27,2024-01-06,10
+INC00321,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,Critical,4 Hours,2024-01-03,2024-01-06,3
+INC00322,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,High,24 Hours,2024-01-03,2024-01-11,8
+INC00323,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,High,24 Hours,2023-12-30,2024-01-08,9
+INC00324,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Medium,3 Days,2023-12-16,2023-12-31,15
+INC00325,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Critical,4 Hours,2023-12-12,2023-12-12,0
+INC00326,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Critical,4 Hours,2023-12-15,2023-12-26,11
+INC00327,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Low,1 Week,2023-12-27,2023-12-27,0
+INC00328,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Critical,4 Hours,2023-12-21,2023-12-25,4
+INC00329,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Critical,4 Hours,2023-12-19,2024-01-02,14
+INC00330,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Medium,3 Days,2024-01-03,2024-01-17,14
+INC00331,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,Low,1 Week,2023-12-28,2023-12-30,2
+INC00332,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Medium,3 Days,2023-12-18,2023-12-28,10
+INC00333,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Medium,3 Days,2023-12-24,2024-01-04,11
+INC00334,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Medium,3 Days,2024-01-02,2024-01-11,9
+INC00335,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Critical,4 Hours,2024-01-09,2024-01-09,0
+INC00336,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Software,High,24 Hours,2023-12-15,2023-12-18,3
+INC00337,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,High,24 Hours,2023-12-15,2023-12-25,10
+INC00338,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,High,24 Hours,2024-01-04,2024-01-14,10
+INC00339,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Medium,3 Days,2023-12-19,2023-12-30,11
+INC00340,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Critical,4 Hours,2023-12-13,2023-12-17,4
+INC00341,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Medium,3 Days,2024-01-02,2024-01-06,4
+INC00342,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Low,1 Week,2023-12-22,2023-12-27,5
+INC00343,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Medium,3 Days,2023-12-14,2023-12-20,6
+INC00344,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,High,24 Hours,2023-12-22,2024-01-04,13
+INC00345,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Critical,4 Hours,2023-12-22,2023-12-30,8
+INC00346,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Critical,4 Hours,2023-12-16,2023-12-17,1
+INC00347,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,Critical,4 Hours,2023-12-31,2024-01-15,15
+INC00348,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,Low,1 Week,2024-01-01,2024-01-05,4
+INC00349,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Resolved,Hardware,Critical,4 Hours,2024-01-02,2024-01-14,12
+INC00350,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Medium,3 Days,2023-12-18,2023-12-27,9
+INC00351,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Low,1 Week,2023-12-22,2023-12-27,5
+INC00352,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Critical,4 Hours,2023-12-27,2024-01-04,8
+INC00353,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2023-12-23,2024-01-04,12
+INC00354,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Medium,3 Days,2023-12-27,2023-12-28,1
+INC00355,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,High,24 Hours,2023-12-31,2023-12-31,0
+INC00356,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2024-01-04,2024-01-09,5
+INC00357,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,High,24 Hours,2023-12-21,2023-12-30,9
+INC00358,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Medium,3 Days,2024-01-04,2024-01-09,5
+INC00359,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Medium,3 Days,2023-12-16,2023-12-27,11
+INC00360,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Medium,3 Days,2023-12-21,2023-12-26,5
+INC00361,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Medium,3 Days,2024-01-05,2024-01-14,9
+INC00362,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Critical,4 Hours,2024-01-01,2024-01-10,9
+INC00363,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Critical,4 Hours,2023-12-11,2023-12-15,4
+INC00364,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Low,1 Week,2023-12-18,2023-12-30,12
+INC00365,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,High,24 Hours,2023-12-21,2024-01-01,11
+INC00366,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Critical,4 Hours,2023-12-17,2023-12-31,14
+INC00367,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Software,High,24 Hours,2023-12-27,2024-01-02,6
+INC00368,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Medium,3 Days,2023-12-22,2023-12-22,0
+INC00369,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,High,24 Hours,2023-12-17,2023-12-22,5
+INC00370,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,High,24 Hours,2023-12-10,2023-12-10,0
+INC00371,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Pending,Hardware,Critical,4 Hours,2024-01-08,2024-01-14,6
+INC00372,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,Low,1 Week,2024-01-03,2024-01-04,1
+INC00373,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,High,24 Hours,2023-12-12,2023-12-20,8
+INC00374,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Low,1 Week,2023-12-30,2024-01-04,5
+INC00375,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Medium,3 Days,2023-12-16,2023-12-25,9
+INC00376,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Medium,3 Days,2023-12-17,2023-12-27,10
+INC00377,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Medium,3 Days,2023-12-29,2023-12-29,0
+INC00378,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Low,1 Week,2023-12-27,2023-12-31,4
+INC00379,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,Low,1 Week,2024-01-06,2024-01-17,11
+INC00380,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Low,1 Week,2023-12-11,2023-12-15,4
+INC00381,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Low,1 Week,2023-12-19,2023-12-29,10
+INC00382,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Low,1 Week,2024-01-08,2024-01-20,12
+INC00383,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,Low,1 Week,2023-12-22,2024-01-02,11
+INC00384,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,High,24 Hours,2023-12-15,2023-12-18,3
+INC00385,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,Low,1 Week,2023-12-24,2024-01-02,9
+INC00386,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,High,24 Hours,2024-01-03,2024-01-15,12
+INC00387,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Low,1 Week,2023-12-25,2024-01-01,7
+INC00388,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Critical,4 Hours,2024-01-08,2024-01-22,14
+INC00389,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Low,1 Week,2023-12-22,2024-01-03,12
+INC00390,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,High,24 Hours,2023-12-21,2023-12-27,6
+INC00391,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,High,24 Hours,2024-01-06,2024-01-09,3
+INC00392,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Critical,4 Hours,2023-12-20,2023-12-27,7
+INC00393,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,High,24 Hours,2023-12-22,2023-12-26,4
+INC00394,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Medium,3 Days,2024-01-03,2024-01-06,3
+INC00395,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Medium,3 Days,2023-12-19,2023-12-21,2
+INC00396,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Medium,3 Days,2023-12-18,2023-12-29,11
+INC00397,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Escalated,Hardware,Critical,4 Hours,2023-12-15,2023-12-18,3
+INC00398,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,Critical,4 Hours,2023-12-24,2023-12-27,3
+INC00399,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2023-12-13,2023-12-15,2
+INC00400,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Critical,4 Hours,2024-01-07,2024-01-19,12
+INC00401,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Critical,4 Hours,2023-12-14,2023-12-16,2
+INC00402,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,High,24 Hours,2024-01-09,2024-01-12,3
+INC00403,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Medium,3 Days,2023-12-15,2023-12-22,7
+INC00404,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,Medium,3 Days,2023-12-19,2023-12-22,3
+INC00405,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,High,24 Hours,2023-12-10,2023-12-10,0
+INC00406,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,High,24 Hours,2023-12-26,2024-01-06,11
+INC00407,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,High,24 Hours,2023-12-30,2023-12-30,0
+INC00408,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Critical,4 Hours,2024-01-08,2024-01-13,5
+INC00409,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Networking,Critical,4 Hours,2023-12-10,2023-12-12,2
+INC00410,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,Medium,3 Days,2023-12-19,2023-12-19,0
+INC00411,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Medium,3 Days,2024-01-07,2024-01-15,8
+INC00412,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,High,24 Hours,2023-12-16,2023-12-20,4
+INC00413,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,High,24 Hours,2023-12-25,2024-01-09,15
+INC00414,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Software,High,24 Hours,2023-12-26,2024-01-01,6
+INC00415,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,High,24 Hours,2023-12-14,2023-12-24,10
+INC00416,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,Low,1 Week,2023-12-21,2023-12-23,2
+INC00417,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Critical,4 Hours,2024-01-06,2024-01-10,4
+INC00418,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,High,24 Hours,2023-12-26,2024-01-06,11
+INC00419,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Critical,4 Hours,2023-12-21,2023-12-28,7
+INC00420,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,High,24 Hours,2023-12-22,2024-01-06,15
+INC00421,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Critical,4 Hours,2024-01-04,2024-01-09,5
+INC00422,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,High,24 Hours,2023-12-18,2024-01-02,15
+INC00423,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Medium,3 Days,2023-12-31,2024-01-08,8
+INC00424,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Medium,3 Days,2023-12-22,2023-12-27,5
+INC00425,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,High,24 Hours,2023-12-21,2023-12-31,10
+INC00426,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Medium,3 Days,2023-12-22,2024-01-05,14
+INC00427,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Low,1 Week,2023-12-21,2023-12-30,9
+INC00428,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Low,1 Week,2024-01-03,2024-01-13,10
+INC00429,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Critical,4 Hours,2024-01-01,2024-01-05,4
+INC00430,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2024-01-09,2024-01-11,2
+INC00431,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,Low,1 Week,2023-12-10,2023-12-19,9
+INC00432,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2023-12-18,2023-12-29,11
+INC00433,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,High,24 Hours,2023-12-26,2024-01-06,11
+INC00434,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Medium,3 Days,2023-12-27,2024-01-08,12
+INC00435,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2023-12-17,2023-12-18,1
+INC00436,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Low,1 Week,2023-12-22,2023-12-26,4
+INC00437,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,Critical,4 Hours,2023-12-13,2023-12-27,14
+INC00438,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Storage,High,24 Hours,2023-12-21,2023-12-30,9
+INC00439,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Medium,3 Days,2023-12-31,2024-01-06,6
+INC00440,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,High,24 Hours,2023-12-26,2024-01-04,9
+INC00441,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,Medium,3 Days,2023-12-25,2023-12-26,1
+INC00442,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,High,24 Hours,2023-12-17,2023-12-24,7
+INC00443,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Critical,4 Hours,2023-12-30,2024-01-09,10
+INC00444,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Low,1 Week,2023-12-11,2023-12-16,5
+INC00445,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Low,1 Week,2023-12-22,2023-12-30,8
+INC00446,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,Low,1 Week,2024-01-02,2024-01-14,12
+INC00447,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Closed,Hardware,Low,1 Week,2023-12-15,2023-12-16,1
+INC00448,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Storage,Low,1 Week,2024-01-04,2024-01-18,14
+INC00449,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Medium,3 Days,2023-12-19,2023-12-28,9
+INC00450,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Low,1 Week,2023-12-16,2023-12-28,12
+INC00451,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,Low,1 Week,2023-12-22,2023-12-29,7
+INC00452,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Critical,4 Hours,2023-12-29,2023-12-31,2
+INC00453,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Low,1 Week,2023-12-11,2023-12-22,11
+INC00454,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Low,1 Week,2024-01-08,2024-01-11,3
+INC00455,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Software,High,24 Hours,2023-12-26,2024-01-09,14
+INC00456,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,Critical,4 Hours,2023-12-13,2023-12-28,15
+INC00457,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,High,24 Hours,2024-01-07,2024-01-08,1
+INC00458,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Low,1 Week,2023-12-12,2023-12-23,11
+INC00459,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Medium,3 Days,2023-12-18,2023-12-24,6
+INC00460,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Medium,3 Days,2023-12-21,2023-12-31,10
+INC00461,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,High,24 Hours,2023-12-15,2023-12-25,10
+INC00462,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Medium,3 Days,2023-12-26,2023-12-30,4
+INC00463,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Networking,Low,1 Week,2024-01-06,2024-01-11,5
+INC00464,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,High,24 Hours,2023-12-21,2024-01-04,14
+INC00465,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,Critical,4 Hours,2024-01-06,2024-01-06,0
+INC00466,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,High,24 Hours,2023-12-19,2023-12-19,0
+INC00467,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,Critical,4 Hours,2023-12-12,2023-12-22,10
+INC00468,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,Medium,3 Days,2023-12-26,2023-12-31,5
+INC00469,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,Low,1 Week,2024-01-03,2024-01-08,5
+INC00470,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,High,24 Hours,2023-12-19,2023-12-29,10
+INC00471,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Storage,Medium,3 Days,2024-01-04,2024-01-13,9
+INC00472,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,Medium,3 Days,2023-12-25,2024-01-05,11
+INC00473,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2023-12-26,2023-12-29,3
+INC00474,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Critical,4 Hours,2023-12-10,2023-12-19,9
+INC00475,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Storage,Critical,4 Hours,2023-12-11,2023-12-20,9
+INC00476,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Low,1 Week,2023-12-17,2023-12-17,0
+INC00477,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Low,1 Week,2024-01-05,2024-01-09,4
+INC00478,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Medium,3 Days,2024-01-08,2024-01-11,3
+INC00479,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,High,24 Hours,2024-01-03,2024-01-05,2
+INC00480,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2023-12-12,2023-12-22,10
+INC00481,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2023-12-19,2023-12-30,11
+INC00482,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,High,24 Hours,2024-01-05,2024-01-17,12
+INC00483,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Medium,3 Days,2023-12-27,2023-12-30,3
+INC00484,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Medium,3 Days,2024-01-09,2024-01-12,3
+INC00485,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,Medium,3 Days,2024-01-02,2024-01-16,14
+INC00486,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Low,1 Week,2024-01-08,2024-01-13,5
+INC00487,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,Medium,3 Days,2023-12-31,2024-01-08,8
+INC00488,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Critical,4 Hours,2024-01-05,2024-01-16,11
+INC00489,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Storage,High,24 Hours,2023-12-17,2024-01-01,15
+INC00490,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Medium,3 Days,2024-01-08,2024-01-19,11
+INC00491,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,Critical,4 Hours,2023-12-11,2023-12-25,14
+INC00492,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,High,24 Hours,2023-12-27,2024-01-09,13
+INC00493,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,Critical,4 Hours,2023-12-10,2023-12-21,11
+INC00494,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,High,24 Hours,2024-01-02,2024-01-09,7
+INC00495,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Low,1 Week,2023-12-25,2024-01-06,12
+INC00496,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Critical,4 Hours,2024-01-03,2024-01-17,14
+INC00497,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Medium,3 Days,2024-01-04,2024-01-05,1
+INC00498,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Low,1 Week,2024-01-08,2024-01-20,12
+INC00499,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,High,24 Hours,2024-01-02,2024-01-10,8
+INC00500,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,High,24 Hours,2023-12-24,2023-12-31,7
+INC00501,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Medium,3 Days,2023-12-23,2024-01-01,9
+INC00502,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Low,1 Week,2023-12-13,2023-12-16,3
+INC00503,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Critical,4 Hours,2023-12-25,2024-01-03,9
+INC00504,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,Medium,3 Days,2023-12-31,2024-01-11,11
+INC00505,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Medium,3 Days,2023-12-11,2023-12-21,10
+INC00506,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Medium,3 Days,2023-12-14,2023-12-25,11
+INC00507,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,High,24 Hours,2023-12-26,2023-12-31,5
+INC00508,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Low,1 Week,2023-12-28,2024-01-05,8
+INC00509,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Medium,3 Days,2024-01-04,2024-01-14,10
+INC00510,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2023-12-23,2024-01-05,13
+INC00511,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Low,1 Week,2023-12-18,2023-12-29,11
+INC00512,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Software,Critical,4 Hours,2024-01-06,2024-01-09,3
+INC00513,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Medium,3 Days,2024-01-02,2024-01-11,9
+INC00514,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,High,24 Hours,2023-12-12,2023-12-12,0
+INC00515,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,Medium,3 Days,2023-12-14,2023-12-24,10
+INC00516,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Low,1 Week,2023-12-29,2023-12-31,2
+INC00517,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Critical,4 Hours,2023-12-23,2024-01-05,13
+INC00518,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,High,24 Hours,2024-01-02,2024-01-06,4
+INC00519,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Low,1 Week,2023-12-16,2023-12-23,7
+INC00520,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Low,1 Week,2023-12-22,2023-12-29,7
+INC00521,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,Medium,3 Days,2023-12-11,2023-12-25,14
+INC00522,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Low,1 Week,2023-12-25,2023-12-26,1
+INC00523,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,High,24 Hours,2024-01-07,2024-01-21,14
+INC00524,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,High,24 Hours,2024-01-04,2024-01-10,6
+INC00525,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Medium,3 Days,2023-12-29,2024-01-04,6
+INC00526,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,High,24 Hours,2023-12-11,2023-12-11,0
+INC00527,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,High,24 Hours,2024-01-06,2024-01-12,6
+INC00528,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,Critical,4 Hours,2023-12-19,2023-12-25,6
+INC00529,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,Medium,3 Days,2023-12-15,2023-12-30,15
+INC00530,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,Medium,3 Days,2023-12-19,2023-12-28,9
+INC00531,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,Critical,4 Hours,2023-12-29,2024-01-12,14
+INC00532,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Medium,3 Days,2023-12-20,2023-12-22,2
+INC00533,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Low,1 Week,2024-01-03,2024-01-03,0
+INC00534,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Critical,4 Hours,2023-12-20,2023-12-22,2
+INC00535,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Closed,Hardware,Medium,3 Days,2023-12-16,2023-12-27,11
+INC00536,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2024-01-06,2024-01-19,13
+INC00537,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Medium,3 Days,2023-12-21,2024-01-04,14
+INC00538,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Medium,3 Days,2024-01-06,2024-01-12,6
+INC00539,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Closed,Hardware,Critical,4 Hours,2024-01-04,2024-01-12,8
+INC00540,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Medium,3 Days,2023-12-18,2023-12-27,9
+INC00541,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,High,24 Hours,2023-12-10,2023-12-11,1
+INC00542,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Pending,Hardware,High,24 Hours,2023-12-26,2024-01-10,15
+INC00543,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Critical,4 Hours,2023-12-17,2023-12-26,9
+INC00544,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,High,24 Hours,2023-12-26,2023-12-30,4
+INC00545,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Critical,4 Hours,2024-01-06,2024-01-11,5
+INC00546,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,High,24 Hours,2023-12-10,2023-12-19,9
+INC00547,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Critical,4 Hours,2023-12-31,2024-01-07,7
+INC00548,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,Medium,3 Days,2023-12-31,2024-01-01,1
+INC00549,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Networking,Low,1 Week,2024-01-07,2024-01-10,3
+INC00550,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,Medium,3 Days,2023-12-26,2024-01-04,9
+INC00551,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,Low,1 Week,2023-12-28,2023-12-30,2
+INC00552,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,High,24 Hours,2023-12-25,2024-01-02,8
+INC00553,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Storage,Critical,4 Hours,2024-01-01,2024-01-02,1
+INC00554,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,Critical,4 Hours,2023-12-10,2023-12-17,7
+INC00555,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Software,Low,1 Week,2023-12-25,2023-12-27,2
+INC00556,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Software,Low,1 Week,2023-12-27,2024-01-05,9
+INC00557,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,Critical,4 Hours,2023-12-11,2023-12-19,8
+INC00558,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Medium,3 Days,2023-12-20,2023-12-30,10
+INC00559,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,High,24 Hours,2023-12-16,2023-12-18,2
+INC00560,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,High,24 Hours,2023-12-19,2024-01-01,13
+INC00561,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Critical,4 Hours,2024-01-07,2024-01-12,5
+INC00562,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Software,Low,1 Week,2023-12-15,2023-12-20,5
+INC00563,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Low,1 Week,2023-12-31,2024-01-14,14
+INC00564,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,Low,1 Week,2024-01-01,2024-01-12,11
+INC00565,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Critical,4 Hours,2023-12-21,2024-01-03,13
+INC00566,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Low,1 Week,2023-12-29,2024-01-13,15
+INC00567,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Networking,Low,1 Week,2024-01-04,2024-01-14,10
+INC00568,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Storage,Low,1 Week,2023-12-12,2023-12-26,14
+INC00569,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Medium,3 Days,2023-12-23,2024-01-05,13
+INC00570,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2023-12-22,2023-12-24,2
+INC00571,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,High,24 Hours,2024-01-04,2024-01-04,0
+INC00572,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Critical,4 Hours,2024-01-09,2024-01-23,14
+INC00573,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,Medium,3 Days,2024-01-09,2024-01-15,6
+INC00574,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,High,24 Hours,2024-01-02,2024-01-10,8
+INC00575,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,Critical,4 Hours,2024-01-06,2024-01-19,13
+INC00576,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,Low,1 Week,2023-12-25,2023-12-28,3
+INC00577,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Medium,3 Days,2024-01-02,2024-01-03,1
+INC00578,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Medium,3 Days,2023-12-14,2023-12-29,15
+INC00579,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Critical,4 Hours,2023-12-28,2023-12-30,2
+INC00580,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,High,24 Hours,2024-01-09,2024-01-10,1
+INC00581,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,High,24 Hours,2023-12-16,2023-12-16,0
+INC00582,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,High,24 Hours,2023-12-26,2024-01-10,15
+INC00583,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Software,High,24 Hours,2023-12-17,2023-12-20,3
+INC00584,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Low,1 Week,2023-12-16,2023-12-30,14
+INC00585,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Medium,3 Days,2023-12-21,2023-12-30,9
+INC00586,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Critical,4 Hours,2023-12-11,2023-12-16,5
+INC00587,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,High,24 Hours,2023-12-23,2024-01-06,14
+INC00588,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-21,2023-12-23,2
+INC00589,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Critical,4 Hours,2024-01-03,2024-01-04,1
+INC00590,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Medium,3 Days,2023-12-12,2023-12-24,12
+INC00591,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Low,1 Week,2023-12-21,2023-12-27,6
+INC00592,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,High,24 Hours,2024-01-01,2024-01-10,9
+INC00593,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Resolved,Hardware,High,24 Hours,2024-01-07,2024-01-21,14
+INC00594,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,High,24 Hours,2024-01-06,2024-01-16,10
+INC00595,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,High,24 Hours,2023-12-21,2024-01-04,14
+INC00596,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Critical,4 Hours,2023-12-23,2024-01-06,14
+INC00597,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,High,24 Hours,2023-12-16,2023-12-19,3
+INC00598,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Critical,4 Hours,2023-12-24,2024-01-02,9
+INC00599,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,Critical,4 Hours,2024-01-05,2024-01-14,9
+INC00600,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Low,1 Week,2023-12-29,2024-01-03,5
+INC00601,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,Medium,3 Days,2024-01-03,2024-01-17,14
+INC00602,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Low,1 Week,2023-12-20,2023-12-21,1
+INC00603,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Software,High,24 Hours,2024-01-06,2024-01-21,15
+INC00604,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,Critical,4 Hours,2023-12-17,2023-12-19,2
+INC00605,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,Medium,3 Days,2023-12-12,2023-12-19,7
+INC00606,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Medium,3 Days,2023-12-10,2023-12-20,10
+INC00607,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,High,24 Hours,2024-01-01,2024-01-10,9
+INC00608,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Low,1 Week,2024-01-05,2024-01-13,8
+INC00609,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,High,24 Hours,2023-12-27,2024-01-09,13
+INC00610,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,High,24 Hours,2024-01-09,2024-01-11,2
+INC00611,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Medium,3 Days,2024-01-08,2024-01-15,7
+INC00612,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,High,24 Hours,2023-12-25,2024-01-05,11
+INC00613,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,Medium,3 Days,2023-12-30,2024-01-08,9
+INC00614,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,Critical,4 Hours,2023-12-26,2024-01-08,13
+INC00615,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,Low,1 Week,2024-01-02,2024-01-06,4
+INC00616,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Medium,3 Days,2024-01-05,2024-01-18,13
+INC00617,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Medium,3 Days,2023-12-24,2024-01-05,12
+INC00618,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,High,24 Hours,2023-12-18,2023-12-22,4
+INC00619,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,High,24 Hours,2023-12-23,2024-01-01,9
+INC00620,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,High,24 Hours,2023-12-24,2023-12-30,6
+INC00621,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,High,24 Hours,2023-12-30,2024-01-03,4
+INC00622,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,High,24 Hours,2023-12-14,2023-12-22,8
+INC00623,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Medium,3 Days,2024-01-06,2024-01-16,10
+INC00624,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,High,24 Hours,2024-01-06,2024-01-06,0
+INC00625,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Critical,4 Hours,2023-12-16,2023-12-17,1
+INC00626,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,Critical,4 Hours,2023-12-31,2024-01-11,11
+INC00627,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Critical,4 Hours,2023-12-25,2023-12-27,2
+INC00628,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,High,24 Hours,2023-12-16,2023-12-30,14
+INC00629,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,Critical,4 Hours,2024-01-04,2024-01-14,10
+INC00630,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,Medium,3 Days,2023-12-13,2023-12-22,9
+INC00631,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Medium,3 Days,2023-12-13,2023-12-17,4
+INC00632,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Critical,4 Hours,2023-12-23,2023-12-30,7
+INC00633,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Medium,3 Days,2023-12-22,2024-01-04,13
+INC00634,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Critical,4 Hours,2023-12-22,2023-12-24,2
+INC00635,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Low,1 Week,2023-12-18,2023-12-19,1
+INC00636,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-24,2023-12-30,6
+INC00637,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Low,1 Week,2024-01-07,2024-01-22,15
+INC00638,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Critical,4 Hours,2024-01-06,2024-01-12,6
+INC00639,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Medium,3 Days,2023-12-26,2023-12-26,0
+INC00640,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Medium,3 Days,2023-12-16,2023-12-28,12
+INC00641,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,High,24 Hours,2023-12-21,2024-01-03,13
+INC00642,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,High,24 Hours,2023-12-29,2024-01-08,10
+INC00643,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Critical,4 Hours,2023-12-21,2023-12-23,2
+INC00644,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Medium,3 Days,2024-01-04,2024-01-06,2
+INC00645,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Low,1 Week,2023-12-15,2023-12-22,7
+INC00646,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,High,24 Hours,2023-12-20,2023-12-26,6
+INC00647,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Low,1 Week,2023-12-26,2024-01-03,8
+INC00648,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Closed,Hardware,Critical,4 Hours,2023-12-23,2023-12-24,1
+INC00649,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,High,24 Hours,2023-12-29,2024-01-07,9
+INC00650,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,High,24 Hours,2024-01-07,2024-01-19,12
+INC00651,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Low,1 Week,2023-12-10,2023-12-16,6
+INC00652,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Critical,4 Hours,2023-12-21,2023-12-23,2
+INC00653,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Low,1 Week,2023-12-11,2023-12-24,13
+INC00654,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Critical,4 Hours,2023-12-11,2023-12-14,3
+INC00655,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,High,24 Hours,2023-12-21,2024-01-02,12
+INC00656,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,Low,1 Week,2023-12-15,2023-12-25,10
+INC00657,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Medium,3 Days,2023-12-11,2023-12-24,13
+INC00658,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Low,1 Week,2024-01-09,2024-01-20,11
+INC00659,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Medium,3 Days,2024-01-02,2024-01-05,3
+INC00660,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Pending,Hardware,Low,1 Week,2023-12-16,2023-12-28,12
+INC00661,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,High,24 Hours,2023-12-23,2023-12-30,7
+INC00662,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Medium,3 Days,2023-12-27,2024-01-03,7
+INC00663,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,High,24 Hours,2023-12-13,2023-12-25,12
+INC00664,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Low,1 Week,2023-12-25,2023-12-30,5
+INC00665,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,High,24 Hours,2023-12-29,2024-01-11,13
+INC00666,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-18,2023-12-19,1
+INC00667,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Medium,3 Days,2023-12-26,2023-12-30,4
+INC00668,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-25,2023-12-27,2
+INC00669,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,High,24 Hours,2024-01-06,2024-01-06,0
+INC00670,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,Low,1 Week,2024-01-02,2024-01-16,14
+INC00671,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Pending,Hardware,Low,1 Week,2023-12-25,2023-12-31,6
+INC00672,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Storage,Low,1 Week,2024-01-02,2024-01-11,9
+INC00673,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,High,24 Hours,2023-12-30,2024-01-01,2
+INC00674,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,Medium,3 Days,2024-01-08,2024-01-16,8
+INC00675,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Medium,3 Days,2023-12-26,2024-01-04,9
+INC00676,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Critical,4 Hours,2023-12-31,2024-01-07,7
+INC00677,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,Critical,4 Hours,2023-12-22,2023-12-31,9
+INC00678,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Storage,Medium,3 Days,2023-12-19,2023-12-19,0
+INC00679,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Medium,3 Days,2023-12-31,2024-01-14,14
+INC00680,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Critical,4 Hours,2023-12-18,2023-12-31,13
+INC00681,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Critical,4 Hours,2024-01-04,2024-01-09,5
+INC00682,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Critical,4 Hours,2023-12-18,2023-12-28,10
+INC00683,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Medium,3 Days,2024-01-03,2024-01-14,11
+INC00684,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Medium,3 Days,2024-01-06,2024-01-09,3
+INC00685,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,Low,1 Week,2023-12-16,2023-12-28,12
+INC00686,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Medium,3 Days,2023-12-31,2024-01-08,8
+INC00687,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,High,24 Hours,2024-01-01,2024-01-14,13
+INC00688,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Medium,3 Days,2023-12-14,2023-12-14,0
+INC00689,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Storage,Medium,3 Days,2023-12-12,2023-12-17,5
+INC00690,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Low,1 Week,2023-12-20,2023-12-23,3
+INC00691,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,High,24 Hours,2023-12-23,2023-12-31,8
+INC00692,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,High,24 Hours,2024-01-01,2024-01-13,12
+INC00693,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Medium,3 Days,2024-01-01,2024-01-04,3
+INC00694,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,High,24 Hours,2024-01-05,2024-01-10,5
+INC00695,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,High,24 Hours,2023-12-16,2023-12-21,5
+INC00696,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,High,24 Hours,2023-12-10,2023-12-22,12
+INC00697,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Low,1 Week,2023-12-18,2023-12-22,4
+INC00698,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,Low,1 Week,2024-01-01,2024-01-11,10
+INC00699,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Software,Medium,3 Days,2023-12-22,2024-01-01,10
+INC00700,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Low,1 Week,2023-12-14,2023-12-19,5
+INC00701,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Low,1 Week,2024-01-05,2024-01-18,13
+INC00702,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Low,1 Week,2023-12-28,2024-01-12,15
+INC00703,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,Low,1 Week,2024-01-08,2024-01-19,11
+INC00704,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,Medium,3 Days,2023-12-13,2023-12-19,6
+INC00705,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Low,1 Week,2023-12-26,2024-01-06,11
+INC00706,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Medium,3 Days,2023-12-13,2023-12-16,3
+INC00707,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Low,1 Week,2024-01-01,2024-01-16,15
+INC00708,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,High,24 Hours,2024-01-02,2024-01-09,7
+INC00709,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,High,24 Hours,2024-01-04,2024-01-10,6
+INC00710,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,High,24 Hours,2023-12-10,2023-12-20,10
+INC00711,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2023-12-14,2023-12-21,7
+INC00712,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Low,1 Week,2023-12-29,2024-01-09,11
+INC00713,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,Low,1 Week,2023-12-19,2023-12-31,12
+INC00714,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,High,24 Hours,2024-01-05,2024-01-20,15
+INC00715,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,High,24 Hours,2023-12-17,2023-12-19,2
+INC00716,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,High,24 Hours,2023-12-23,2024-01-05,13
+INC00717,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,Medium,3 Days,2024-01-01,2024-01-15,14
+INC00718,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Critical,4 Hours,2023-12-17,2023-12-25,8
+INC00719,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,High,24 Hours,2023-12-30,2024-01-08,9
+INC00720,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Low,1 Week,2023-12-20,2024-01-04,15
+INC00721,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,Low,1 Week,2024-01-04,2024-01-18,14
+INC00722,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,Medium,3 Days,2023-12-23,2023-12-29,6
+INC00723,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Critical,4 Hours,2024-01-09,2024-01-23,14
+INC00724,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,High,24 Hours,2023-12-28,2023-12-28,0
+INC00725,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Networking,Critical,4 Hours,2023-12-10,2023-12-10,0
+INC00726,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Networking,Critical,4 Hours,2024-01-08,2024-01-11,3
+INC00727,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Critical,4 Hours,2023-12-30,2024-01-08,9
+INC00728,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Medium,3 Days,2023-12-20,2023-12-27,7
+INC00729,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Low,1 Week,2024-01-09,2024-01-15,6
+INC00730,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Networking,Medium,3 Days,2024-01-09,2024-01-12,3
+INC00731,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Low,1 Week,2023-12-22,2023-12-24,2
+INC00732,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2023-12-22,2023-12-27,5
+INC00733,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2024-01-09,2024-01-19,10
+INC00734,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Medium,3 Days,2023-12-26,2023-12-27,1
+INC00735,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Low,1 Week,2024-01-04,2024-01-08,4
+INC00736,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-04,2024-01-06,2
+INC00737,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,Low,1 Week,2024-01-08,2024-01-18,10
+INC00738,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Closed,Hardware,Low,1 Week,2023-12-19,2023-12-30,11
+INC00739,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Storage,Critical,4 Hours,2024-01-02,2024-01-02,0
+INC00740,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2023-12-15,2023-12-21,6
+INC00741,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Storage,Medium,3 Days,2023-12-30,2024-01-02,3
+INC00742,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,Medium,3 Days,2023-12-24,2023-12-24,0
+INC00743,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Low,1 Week,2023-12-28,2023-12-30,2
+INC00744,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,High,24 Hours,2023-12-12,2023-12-15,3
+INC00745,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,High,24 Hours,2023-12-27,2024-01-06,10
+INC00746,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,Medium,3 Days,2023-12-19,2024-01-01,13
+INC00747,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Low,1 Week,2023-12-31,2024-01-02,2
+INC00748,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,High,24 Hours,2023-12-22,2023-12-27,5
+INC00749,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Critical,4 Hours,2023-12-30,2024-01-02,3
+INC00750,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Critical,4 Hours,2023-12-28,2024-01-12,15
+INC00751,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Networking,Medium,3 Days,2024-01-07,2024-01-11,4
+INC00752,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,Medium,3 Days,2024-01-08,2024-01-16,8
+INC00753,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,Medium,3 Days,2023-12-16,2023-12-16,0
+INC00754,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,Medium,3 Days,2024-01-08,2024-01-15,7
+INC00755,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Medium,3 Days,2024-01-01,2024-01-05,4
+INC00756,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Storage,Medium,3 Days,2023-12-31,2024-01-06,6
+INC00757,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,High,24 Hours,2023-12-10,2023-12-11,1
+INC00758,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Medium,3 Days,2024-01-09,2024-01-15,6
+INC00759,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Closed,Hardware,Low,1 Week,2024-01-09,2024-01-15,6
+INC00760,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Low,1 Week,2024-01-01,2024-01-09,8
+INC00761,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,Critical,4 Hours,2023-12-17,2023-12-25,8
+INC00762,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Software,High,24 Hours,2024-01-09,2024-01-09,0
+INC00763,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Medium,3 Days,2024-01-04,2024-01-16,12
+INC00764,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Software,High,24 Hours,2023-12-15,2023-12-17,2
+INC00765,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Critical,4 Hours,2024-01-05,2024-01-12,7
+INC00766,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Low,1 Week,2024-01-08,2024-01-17,9
+INC00767,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Resolved,Hardware,High,24 Hours,2023-12-18,2023-12-27,9
+INC00768,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Low,1 Week,2024-01-06,2024-01-08,2
+INC00769,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,Critical,4 Hours,2023-12-18,2023-12-23,5
+INC00770,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Medium,3 Days,2024-01-01,2024-01-07,6
+INC00771,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,Low,1 Week,2024-01-06,2024-01-16,10
+INC00772,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Closed,Hardware,High,24 Hours,2023-12-13,2023-12-25,12
+INC00773,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Low,1 Week,2024-01-06,2024-01-12,6
+INC00774,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Medium,3 Days,2024-01-09,2024-01-18,9
+INC00775,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Low,1 Week,2024-01-04,2024-01-09,5
+INC00776,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2024-01-05,2024-01-13,8
+INC00777,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,High,24 Hours,2023-12-17,2023-12-26,9
+INC00778,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Low,1 Week,2023-12-19,2023-12-30,11
+INC00779,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,High,24 Hours,2024-01-08,2024-01-12,4
+INC00780,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Low,1 Week,2024-01-09,2024-01-10,1
+INC00781,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Critical,4 Hours,2024-01-08,2024-01-14,6
+INC00782,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Critical,4 Hours,2023-12-22,2023-12-23,1
+INC00783,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Critical,4 Hours,2024-01-05,2024-01-09,4
+INC00784,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2024-01-01,2024-01-12,11
+INC00785,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Critical,4 Hours,2023-12-15,2023-12-15,0
+INC00786,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Critical,4 Hours,2023-12-28,2023-12-31,3
+INC00787,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Critical,4 Hours,2023-12-12,2023-12-18,6
+INC00788,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Critical,4 Hours,2024-01-08,2024-01-23,15
+INC00789,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Software,High,24 Hours,2023-12-28,2023-12-28,0
+INC00790,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Medium,3 Days,2023-12-31,2024-01-12,12
+INC00791,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2024-01-02,2024-01-09,7
+INC00792,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2024-01-01,2024-01-11,10
+INC00793,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Software,Low,1 Week,2023-12-12,2023-12-18,6
+INC00794,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Medium,3 Days,2024-01-09,2024-01-17,8
+INC00795,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Low,1 Week,2023-12-31,2024-01-03,3
+INC00796,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Closed,Hardware,High,24 Hours,2023-12-10,2023-12-23,13
+INC00797,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Pending,Hardware,Critical,4 Hours,2024-01-03,2024-01-13,10
+INC00798,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Networking,Medium,3 Days,2024-01-08,2024-01-16,8
+INC00799,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Medium,3 Days,2023-12-13,2023-12-15,2
+INC00800,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,Low,1 Week,2024-01-08,2024-01-19,11
+INC00801,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Low,1 Week,2023-12-20,2023-12-26,6
+INC00802,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,High,24 Hours,2024-01-06,2024-01-07,1
+INC00803,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Low,1 Week,2023-12-13,2023-12-22,9
+INC00804,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Closed,Hardware,High,24 Hours,2023-12-29,2024-01-03,5
+INC00805,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,High,24 Hours,2023-12-14,2023-12-24,10
+INC00806,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Networking,High,24 Hours,2024-01-06,2024-01-17,11
+INC00807,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Critical,4 Hours,2023-12-31,2024-01-14,14
+INC00808,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,High,24 Hours,2023-12-16,2023-12-21,5
+INC00809,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Critical,4 Hours,2023-12-13,2023-12-21,8
+INC00810,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Storage,High,24 Hours,2023-12-10,2023-12-14,4
+INC00811,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Critical,4 Hours,2024-01-07,2024-01-15,8
+INC00812,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Networking,High,24 Hours,2023-12-30,2024-01-12,13
+INC00813,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Networking,Medium,3 Days,2023-12-18,2023-12-27,9
+INC00814,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,Critical,4 Hours,2023-12-19,2023-12-24,5
+INC00815,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Critical,4 Hours,2023-12-10,2023-12-21,11
+INC00816,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Medium,3 Days,2024-01-03,2024-01-08,5
+INC00817,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,High,24 Hours,2023-12-30,2024-01-12,13
+INC00818,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Pending,Networking,Critical,4 Hours,2023-12-29,2024-01-11,13
+INC00819,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,Low,1 Week,2023-12-21,2023-12-30,9
+INC00820,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Low,1 Week,2023-12-23,2024-01-03,11
+INC00821,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,Medium,3 Days,2023-12-24,2023-12-24,0
+INC00822,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,High,24 Hours,2024-01-07,2024-01-14,7
+INC00823,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Storage,Critical,4 Hours,2023-12-19,2023-12-21,2
+INC00824,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Medium,3 Days,2023-12-10,2023-12-25,15
+INC00825,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Storage,Critical,4 Hours,2023-12-11,2023-12-15,4
+INC00826,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Critical,4 Hours,2024-01-01,2024-01-07,6
+INC00827,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Software,Critical,4 Hours,2023-12-13,2023-12-26,13
+INC00828,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2023-12-16,2023-12-31,15
+INC00829,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Low,1 Week,2024-01-09,2024-01-14,5
+INC00830,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Critical,4 Hours,2023-12-26,2023-12-30,4
+INC00831,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Low,1 Week,2023-12-22,2023-12-25,3
+INC00832,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Storage,Low,1 Week,2024-01-05,2024-01-20,15
+INC00833,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Storage,Medium,3 Days,2023-12-11,2023-12-18,7
+INC00834,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Medium,3 Days,2024-01-02,2024-01-08,6
+INC00835,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Closed,Hardware,Critical,4 Hours,2024-01-06,2024-01-20,14
+INC00836,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Low,1 Week,2023-12-23,2023-12-26,3
+INC00837,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Low,1 Week,2024-01-05,2024-01-05,0
+INC00838,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Storage,High,24 Hours,2023-12-15,2023-12-28,13
+INC00839,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Low,1 Week,2023-12-21,2024-01-03,13
+INC00840,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Networking,Low,1 Week,2023-12-27,2024-01-11,15
+INC00841,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Low,1 Week,2023-12-11,2023-12-20,9
+INC00842,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Critical,4 Hours,2024-01-07,2024-01-16,9
+INC00843,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,High,24 Hours,2024-01-07,2024-01-07,0
+INC00844,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2023-12-17,2023-12-18,1
+INC00845,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Medium,3 Days,2023-12-26,2024-01-04,9
+INC00846,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Software,High,24 Hours,2024-01-05,2024-01-18,13
+INC00847,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2023-12-13,2023-12-13,0
+INC00848,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Low,1 Week,2023-12-21,2023-12-22,1
+INC00849,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Resolved,Hardware,High,24 Hours,2023-12-29,2024-01-04,6
+INC00850,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Critical,4 Hours,2023-12-21,2024-01-01,11
+INC00851,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Networking,Low,1 Week,2024-01-07,2024-01-09,2
+INC00852,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Low,1 Week,2023-12-24,2024-01-03,10
+INC00853,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,Low,1 Week,2023-12-17,2023-12-23,6
+INC00854,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Critical,4 Hours,2023-12-18,2023-12-24,6
+INC00855,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,Medium,3 Days,2024-01-03,2024-01-10,7
+INC00856,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Critical,4 Hours,2024-01-02,2024-01-11,9
+INC00857,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Medium,3 Days,2024-01-05,2024-01-10,5
+INC00858,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,High,24 Hours,2024-01-06,2024-01-11,5
+INC00859,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2024-01-02,2024-01-08,6
+INC00860,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Software,Critical,4 Hours,2023-12-27,2023-12-30,3
+INC00861,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Storage,Medium,3 Days,2023-12-30,2024-01-08,9
+INC00862,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Networking,Critical,4 Hours,2024-01-01,2024-01-12,11
+INC00863,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Storage,Medium,3 Days,2023-12-10,2023-12-25,15
+INC00864,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Low,1 Week,2024-01-02,2024-01-07,5
+INC00865,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Networking,High,24 Hours,2023-12-19,2023-12-31,12
+INC00866,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Networking,Critical,4 Hours,2023-12-22,2024-01-02,11
+INC00867,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Low,1 Week,2023-12-25,2023-12-28,3
+INC00868,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Networking,Critical,4 Hours,2024-01-03,2024-01-17,14
+INC00869,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Storage,Critical,4 Hours,2023-12-27,2024-01-10,14
+INC00870,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,High,24 Hours,2024-01-06,2024-01-16,10
+INC00871,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Critical,4 Hours,2024-01-03,2024-01-18,15
+INC00872,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Critical,4 Hours,2023-12-29,2024-01-06,8
+INC00873,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Storage,Medium,3 Days,2023-12-14,2023-12-27,13
+INC00874,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,Low,1 Week,2023-12-19,2023-12-28,9
+INC00875,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Critical,4 Hours,2023-12-13,2023-12-15,2
+INC00876,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,High,24 Hours,2024-01-05,2024-01-10,5
+INC00877,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Networking,Medium,3 Days,2023-12-17,2023-12-23,6
+INC00878,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,Critical,4 Hours,2023-12-26,2023-12-29,3
+INC00879,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Resolved,Hardware,Low,1 Week,2023-12-13,2023-12-17,4
+INC00880,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Resolved,Hardware,Medium,3 Days,2023-12-11,2023-12-23,12
+INC00881,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Storage,Medium,3 Days,2024-01-05,2024-01-14,9
+INC00882,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2024-01-03,2024-01-07,4
+INC00883,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Low,1 Week,2023-12-23,2023-12-24,1
+INC00884,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Medium,3 Days,2023-12-28,2024-01-02,5
+INC00885,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,High,24 Hours,2024-01-08,2024-01-22,14
+INC00886,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,Low,1 Week,2023-12-22,2023-12-30,8
+INC00887,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Medium,3 Days,2023-12-22,2024-01-03,12
+INC00888,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2024-01-07,2024-01-20,13
+INC00889,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-03,2024-01-06,3
+INC00890,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Storage,Low,1 Week,2023-12-11,2023-12-19,8
+INC00891,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,Medium,3 Days,2024-01-08,2024-01-18,10
+INC00892,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2023-12-10,2023-12-20,10
+INC00893,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Storage,Medium,3 Days,2023-12-15,2023-12-28,13
+INC00894,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Escalated,Hardware,Low,1 Week,2023-12-22,2023-12-26,4
+INC00895,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Networking,Critical,4 Hours,2023-12-11,2023-12-25,14
+INC00896,Software Installation Error,Error encountered during the installation of software X.,Team C,Escalated,Software,Critical,4 Hours,2023-12-12,2023-12-25,13
+INC00897,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Low,1 Week,2023-12-25,2023-12-30,5
+INC00898,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,Low,1 Week,2023-12-31,2023-12-31,0
+INC00899,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Networking,Medium,3 Days,2023-12-27,2024-01-03,7
+INC00900,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Software,Critical,4 Hours,2023-12-26,2024-01-06,11
+INC00901,Software Installation Error,Error encountered during the installation of software X.,Team C,Closed,Software,High,24 Hours,2023-12-20,2023-12-24,4
+INC00902,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Storage,Critical,4 Hours,2023-12-28,2024-01-06,9
+INC00903,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Networking,High,24 Hours,2023-12-27,2024-01-04,8
+INC00904,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Critical,4 Hours,2024-01-08,2024-01-23,15
+INC00905,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Low,1 Week,2024-01-04,2024-01-09,5
+INC00906,Software Installation Error,Error encountered during the installation of software X.,Team B,Pending,Software,Low,1 Week,2023-12-16,2023-12-29,13
+INC00907,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Software,High,24 Hours,2023-12-30,2024-01-09,10
+INC00908,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Medium,3 Days,2023-12-26,2024-01-07,12
+INC00909,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Medium,3 Days,2024-01-08,2024-01-11,3
+INC00910,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Storage,Medium,3 Days,2023-12-23,2023-12-27,4
+INC00911,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Closed,Software,High,24 Hours,2023-12-24,2024-01-01,8
+INC00912,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,Critical,4 Hours,2024-01-05,2024-01-16,11
+INC00913,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Critical,4 Hours,2024-01-07,2024-01-16,9
+INC00914,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,Medium,3 Days,2023-12-27,2024-01-07,11
+INC00915,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,Medium,3 Days,2024-01-09,2024-01-23,14
+INC00916,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Storage,Critical,4 Hours,2023-12-30,2024-01-11,12
+INC00917,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Networking,Low,1 Week,2023-12-16,2023-12-17,1
+INC00918,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Medium,3 Days,2023-12-30,2024-01-13,14
+INC00919,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Networking,Medium,3 Days,2023-12-18,2023-12-29,11
+INC00920,Software Installation Error,Error encountered during the installation of software X.,Team D,Pending,Software,Low,1 Week,2023-12-18,2023-12-31,13
+INC00921,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Low,1 Week,2023-12-29,2023-12-31,2
+INC00922,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Resolved,Hardware,High,24 Hours,2024-01-08,2024-01-22,14
+INC00923,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Networking,High,24 Hours,2024-01-09,2024-01-21,12
+INC00924,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Storage,Low,1 Week,2023-12-24,2023-12-24,0
+INC00925,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Critical,4 Hours,2023-12-16,2023-12-29,13
+INC00926,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Medium,3 Days,2024-01-04,2024-01-16,12
+INC00927,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,Low,1 Week,2023-12-10,2023-12-22,12
+INC00928,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2024-01-09,2024-01-17,8
+INC00929,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Critical,4 Hours,2023-12-15,2023-12-23,8
+INC00930,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Storage,Medium,3 Days,2023-12-23,2023-12-27,4
+INC00931,Software Installation Error,Error encountered during the installation of software X.,Team B,Escalated,Software,Low,1 Week,2023-12-15,2023-12-21,6
+INC00932,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Storage,High,24 Hours,2023-12-25,2024-01-06,12
+INC00933,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,High,24 Hours,2023-12-18,2024-01-02,15
+INC00934,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,High,24 Hours,2023-12-14,2023-12-18,4
+INC00935,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Medium,3 Days,2023-12-30,2024-01-02,3
+INC00936,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Escalated,Hardware,High,24 Hours,2023-12-17,2023-12-25,8
+INC00937,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Software,Critical,4 Hours,2023-12-10,2023-12-18,8
+INC00938,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Software,Low,1 Week,2023-12-25,2023-12-28,3
+INC00939,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Low,1 Week,2023-12-28,2024-01-11,14
+INC00940,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,High,24 Hours,2023-12-19,2023-12-31,12
+INC00941,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,High,24 Hours,2024-01-06,2024-01-15,9
+INC00942,Software Installation Error,Error encountered during the installation of software X.,Team B,Closed,Software,Critical,4 Hours,2023-12-16,2023-12-17,1
+INC00943,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Storage,High,24 Hours,2023-12-25,2023-12-26,1
+INC00944,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Escalated,Hardware,Critical,4 Hours,2023-12-11,2023-12-26,15
+INC00945,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Software,Medium,3 Days,2023-12-15,2023-12-20,5
+INC00946,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Escalated,Networking,Critical,4 Hours,2023-12-18,2023-12-18,0
+INC00947,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Storage,Low,1 Week,2023-12-24,2023-12-28,4
+INC00948,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Pending,Hardware,Critical,4 Hours,2023-12-19,2024-01-02,14
+INC00949,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,Critical,4 Hours,2024-01-01,2024-01-01,0
+INC00950,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team B,Escalated,Hardware,Medium,3 Days,2023-12-23,2023-12-31,8
+INC00951,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Critical,4 Hours,2023-12-28,2023-12-28,0
+INC00952,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2023-12-25,2023-12-26,1
+INC00953,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Networking,Critical,4 Hours,2023-12-31,2024-01-02,2
+INC00954,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Closed,Storage,High,24 Hours,2023-12-14,2023-12-23,9
+INC00955,Printer Not Responding,The network printer in the finance department is not responding.,Team C,Pending,Hardware,High,24 Hours,2023-12-25,2023-12-25,0
+INC00956,Software Installation Error,Error encountered during the installation of software X.,Team A,Closed,Software,Low,1 Week,2023-12-29,2024-01-12,14
+INC00957,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Networking,High,24 Hours,2024-01-05,2024-01-16,11
+INC00958,Printer Not Responding,The network printer in the finance department is not responding.,Team B,Escalated,Hardware,Critical,4 Hours,2023-12-11,2023-12-20,9
+INC00959,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Software,Medium,3 Days,2023-12-12,2023-12-21,9
+INC00960,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Storage,Low,1 Week,2024-01-08,2024-01-21,13
+INC00961,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Resolved,Hardware,Critical,4 Hours,2023-12-29,2024-01-08,10
+INC00962,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Software,Medium,3 Days,2023-12-26,2024-01-08,13
+INC00963,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Software,Medium,3 Days,2023-12-16,2023-12-31,15
+INC00964,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Closed,Hardware,High,24 Hours,2023-12-18,2023-12-29,11
+INC00965,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Escalated,Hardware,Medium,3 Days,2024-01-03,2024-01-14,11
+INC00966,Printer Not Responding,The network printer in the finance department is not responding.,Team A,Closed,Hardware,Medium,3 Days,2024-01-05,2024-01-05,0
+INC00967,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Pending,Networking,Low,1 Week,2023-12-16,2023-12-22,6
+INC00968,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Escalated,Hardware,Critical,4 Hours,2023-12-28,2024-01-08,11
+INC00969,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,Critical,4 Hours,2023-12-25,2023-12-27,2
+INC00970,Software Installation Error,Error encountered during the installation of software X.,Team D,Resolved,Networking,Medium,3 Days,2023-12-29,2024-01-04,6
+INC00971,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Pending,Storage,Critical,4 Hours,2023-12-16,2023-12-16,0
+INC00972,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team C,Escalated,Hardware,High,24 Hours,2023-12-26,2023-12-29,3
+INC00973,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,Low,1 Week,2023-12-27,2024-01-02,6
+INC00974,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Closed,Software,Low,1 Week,2023-12-18,2023-12-21,3
+INC00975,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,High,24 Hours,2024-01-05,2024-01-07,2
+INC00976,Software Installation Error,Error encountered during the installation of software X.,Team A,Resolved,Storage,High,24 Hours,2023-12-21,2024-01-02,12
+INC00977,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Software,Low,1 Week,2023-12-20,2023-12-31,11
+INC00978,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Resolved,Storage,High,24 Hours,2024-01-09,2024-01-21,12
+INC00979,Software Installation Error,Error encountered during the installation of software X.,Team A,Escalated,Networking,Critical,4 Hours,2024-01-09,2024-01-12,3
+INC00980,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Storage,Low,1 Week,2024-01-04,2024-01-18,14
+INC00981,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team A,Pending,Hardware,High,24 Hours,2023-12-21,2024-01-04,14
+INC00982,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team C,Escalated,Networking,Medium,3 Days,2023-12-26,2024-01-05,10
+INC00983,Software Installation Error,Error encountered during the installation of software X.,Team C,Pending,Software,Critical,4 Hours,2024-01-05,2024-01-18,13
+INC00984,Software Installation Error,Error encountered during the installation of software X.,Team D,Escalated,Networking,Low,1 Week,2024-01-03,2024-01-06,3
+INC00985,Laptop Overheating,User reports that their company-issued laptop overheats frequently.,Team D,Pending,Hardware,Medium,3 Days,2023-12-12,2023-12-27,15
+INC00986,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Resolved,Software,Low,1 Week,2024-01-04,2024-01-15,11
+INC00987,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Resolved,Networking,Medium,3 Days,2023-12-27,2023-12-28,1
+INC00988,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Escalated,Networking,Medium,3 Days,2023-12-16,2023-12-30,14
+INC00989,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team A,Closed,Software,Low,1 Week,2023-12-24,2023-12-30,6
+INC00990,Software Installation Error,Error encountered during the installation of software X.,Team A,Pending,Storage,High,24 Hours,2023-12-30,2024-01-01,2
+INC00991,Software Installation Error,Error encountered during the installation of software X.,Team B,Resolved,Networking,High,24 Hours,2023-12-11,2023-12-25,14
+INC00992,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Critical,4 Hours,2024-01-09,2024-01-16,7
+INC00993,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team D,Pending,Software,Medium,3 Days,2024-01-02,2024-01-05,3
+INC00994,Software Installation Error,Error encountered during the installation of software X.,Team C,Resolved,Networking,Low,1 Week,2024-01-07,2024-01-19,12
+INC00995,Printer Not Responding,The network printer in the finance department is not responding.,Team D,Resolved,Hardware,Medium,3 Days,2023-12-13,2023-12-14,1
+INC00996,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Escalated,Software,Low,1 Week,2023-12-16,2023-12-31,15
+INC00997,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Software,Critical,4 Hours,2023-12-24,2024-01-02,9
+INC00998,Software Installation Error,Error encountered during the installation of software X.,Team D,Closed,Storage,Low,1 Week,2023-12-10,2023-12-22,12
+INC00999,Email Client Crash,The email client crashes repeatedly when opening attachments.,Team B,Resolved,Storage,Low,1 Week,2023-12-16,2023-12-19,3

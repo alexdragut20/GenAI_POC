@@ -1,0 +1,1001 @@
+Incident Number,Customer Query,IT Support Response,Assigned Team,Resolution,Priority,SLA Time,Incident Date,Resolution Date,Days to Resolve
+INC00000,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Medium,3 Days,2023-12-23,2024-01-02,10
+INC00001,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,Low,1 Week,2024-01-04,2024-01-05,1
+INC00002,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Critical,4 Hours,2023-12-30,2024-01-08,9
+INC00003,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Critical,4 Hours,2023-12-25,2023-12-28,3
+INC00004,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,High,24 Hours,2023-12-22,2023-12-28,6
+INC00005,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,High,24 Hours,2023-12-28,2024-01-04,7
+INC00006,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2023-12-10,2023-12-15,5
+INC00007,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Medium,3 Days,2023-12-25,2024-01-02,8
+INC00008,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,High,24 Hours,2023-12-15,2023-12-19,4
+INC00009,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,High,24 Hours,2023-12-14,2023-12-18,4
+INC00010,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,High,24 Hours,2023-12-27,2024-01-01,5
+INC00011,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,Medium,3 Days,2023-12-30,2024-01-12,13
+INC00012,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Medium,3 Days,2023-12-16,2023-12-19,3
+INC00013,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Medium,3 Days,2024-01-04,2024-01-19,15
+INC00014,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Medium,3 Days,2023-12-18,2023-12-30,12
+INC00015,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,Medium,3 Days,2024-01-02,2024-01-02,0
+INC00016,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Critical,4 Hours,2023-12-15,2023-12-24,9
+INC00017,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Critical,4 Hours,2023-12-27,2024-01-02,6
+INC00018,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,High,24 Hours,2024-01-09,2024-01-12,3
+INC00019,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Critical,4 Hours,2023-12-13,2023-12-21,8
+INC00020,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Medium,3 Days,2023-12-26,2023-12-31,5
+INC00021,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,Critical,4 Hours,2024-01-07,2024-01-08,1
+INC00022,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2024-01-09,2024-01-09,0
+INC00023,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Critical,4 Hours,2024-01-02,2024-01-14,12
+INC00024,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Critical,4 Hours,2024-01-06,2024-01-07,1
+INC00025,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,High,24 Hours,2024-01-03,2024-01-17,14
+INC00026,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Medium,3 Days,2024-01-01,2024-01-08,7
+INC00027,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Medium,3 Days,2023-12-28,2024-01-12,15
+INC00028,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,High,24 Hours,2023-12-15,2023-12-29,14
+INC00029,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,Critical,4 Hours,2023-12-30,2024-01-01,2
+INC00030,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,Critical,4 Hours,2023-12-25,2023-12-28,3
+INC00031,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Medium,3 Days,2023-12-14,2023-12-22,8
+INC00032,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2023-12-18,2023-12-22,4
+INC00033,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Pending,Low,1 Week,2023-12-26,2023-12-26,0
+INC00034,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,Critical,4 Hours,2023-12-30,2024-01-11,12
+INC00035,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Medium,3 Days,2024-01-05,2024-01-10,5
+INC00036,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,Critical,4 Hours,2024-01-01,2024-01-01,0
+INC00037,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Low,1 Week,2024-01-03,2024-01-10,7
+INC00038,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,High,24 Hours,2023-12-22,2023-12-29,7
+INC00039,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,High,24 Hours,2024-01-02,2024-01-12,10
+INC00040,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,High,24 Hours,2023-12-28,2024-01-03,6
+INC00041,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2024-01-04,2024-01-11,7
+INC00042,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Critical,4 Hours,2023-12-18,2023-12-22,4
+INC00043,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Low,1 Week,2023-12-19,2023-12-19,0
+INC00044,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,High,24 Hours,2023-12-20,2023-12-24,4
+INC00045,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Low,1 Week,2024-01-05,2024-01-19,14
+INC00046,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Resolved,Critical,4 Hours,2023-12-15,2023-12-26,11
+INC00047,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2024-01-03,2024-01-12,9
+INC00048,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Critical,4 Hours,2023-12-24,2024-01-05,12
+INC00049,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Medium,3 Days,2024-01-09,2024-01-16,7
+INC00050,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Low,1 Week,2023-12-20,2023-12-31,11
+INC00051,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2024-01-07,2024-01-08,1
+INC00052,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Low,1 Week,2023-12-20,2023-12-25,5
+INC00053,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Medium,3 Days,2024-01-09,2024-01-12,3
+INC00054,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Medium,3 Days,2023-12-24,2023-12-24,0
+INC00055,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2024-01-09,2024-01-18,9
+INC00056,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Critical,4 Hours,2023-12-21,2024-01-03,13
+INC00057,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Medium,3 Days,2023-12-12,2023-12-18,6
+INC00058,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,Medium,3 Days,2023-12-26,2023-12-31,5
+INC00059,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,High,24 Hours,2024-01-03,2024-01-07,4
+INC00060,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Critical,4 Hours,2023-12-24,2024-01-02,9
+INC00061,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Critical,4 Hours,2023-12-25,2024-01-05,11
+INC00062,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Critical,4 Hours,2023-12-27,2023-12-31,4
+INC00063,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Critical,4 Hours,2024-01-04,2024-01-10,6
+INC00064,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,High,24 Hours,2024-01-03,2024-01-17,14
+INC00065,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Low,1 Week,2024-01-06,2024-01-19,13
+INC00066,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,High,24 Hours,2023-12-25,2024-01-03,9
+INC00067,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Critical,4 Hours,2023-12-14,2023-12-23,9
+INC00068,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Critical,4 Hours,2023-12-31,2024-01-07,7
+INC00069,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Medium,3 Days,2024-01-07,2024-01-08,1
+INC00070,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Medium,3 Days,2023-12-20,2024-01-01,12
+INC00071,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,High,24 Hours,2024-01-01,2024-01-14,13
+INC00072,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,High,24 Hours,2024-01-04,2024-01-17,13
+INC00073,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,Critical,4 Hours,2023-12-29,2024-01-04,6
+INC00074,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,Low,1 Week,2023-12-10,2023-12-20,10
+INC00075,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Escalated,Critical,4 Hours,2023-12-23,2024-01-04,12
+INC00076,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Critical,4 Hours,2024-01-01,2024-01-16,15
+INC00077,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Critical,4 Hours,2024-01-08,2024-01-19,11
+INC00078,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Critical,4 Hours,2023-12-30,2024-01-07,8
+INC00079,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Critical,4 Hours,2024-01-08,2024-01-09,1
+INC00080,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,Medium,3 Days,2024-01-05,2024-01-19,14
+INC00081,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Escalated,Critical,4 Hours,2023-12-14,2023-12-29,15
+INC00082,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Critical,4 Hours,2024-01-06,2024-01-11,5
+INC00083,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,Medium,3 Days,2024-01-05,2024-01-18,13
+INC00084,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,High,24 Hours,2024-01-07,2024-01-12,5
+INC00085,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Pending,High,24 Hours,2023-12-11,2023-12-13,2
+INC00086,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,Critical,4 Hours,2023-12-23,2023-12-27,4
+INC00087,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Critical,4 Hours,2023-12-29,2024-01-04,6
+INC00088,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,High,24 Hours,2023-12-18,2023-12-19,1
+INC00089,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Medium,3 Days,2023-12-29,2024-01-01,3
+INC00090,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,High,24 Hours,2023-12-22,2023-12-29,7
+INC00091,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Low,1 Week,2024-01-02,2024-01-04,2
+INC00092,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Critical,4 Hours,2023-12-11,2023-12-15,4
+INC00093,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Pending,Low,1 Week,2023-12-20,2023-12-22,2
+INC00094,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,High,24 Hours,2023-12-15,2023-12-15,0
+INC00095,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Low,1 Week,2023-12-24,2024-01-07,14
+INC00096,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Critical,4 Hours,2024-01-09,2024-01-14,5
+INC00097,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,Medium,3 Days,2024-01-07,2024-01-10,3
+INC00098,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Medium,3 Days,2023-12-10,2023-12-12,2
+INC00099,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Low,1 Week,2023-12-19,2023-12-24,5
+INC00100,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Medium,3 Days,2023-12-29,2024-01-04,6
+INC00101,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Pending,Critical,4 Hours,2024-01-05,2024-01-18,13
+INC00102,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,High,24 Hours,2023-12-14,2023-12-19,5
+INC00103,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,High,24 Hours,2024-01-05,2024-01-15,10
+INC00104,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Medium,3 Days,2023-12-16,2023-12-17,1
+INC00105,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Low,1 Week,2023-12-17,2023-12-28,11
+INC00106,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,Low,1 Week,2024-01-05,2024-01-19,14
+INC00107,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,High,24 Hours,2023-12-30,2024-01-07,8
+INC00108,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Low,1 Week,2023-12-22,2024-01-01,10
+INC00109,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,High,24 Hours,2023-12-19,2024-01-03,15
+INC00110,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Critical,4 Hours,2024-01-05,2024-01-09,4
+INC00111,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,High,24 Hours,2023-12-25,2024-01-03,9
+INC00112,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Critical,4 Hours,2023-12-11,2023-12-17,6
+INC00113,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Critical,4 Hours,2023-12-29,2024-01-13,15
+INC00114,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Low,1 Week,2023-12-24,2023-12-31,7
+INC00115,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Low,1 Week,2023-12-29,2024-01-03,5
+INC00116,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Low,1 Week,2023-12-21,2023-12-23,2
+INC00117,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,Critical,4 Hours,2024-01-06,2024-01-18,12
+INC00118,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Escalated,Medium,3 Days,2023-12-24,2024-01-01,8
+INC00119,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2024-01-02,2024-01-02,0
+INC00120,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,High,24 Hours,2023-12-24,2024-01-05,12
+INC00121,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Low,1 Week,2024-01-01,2024-01-13,12
+INC00122,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,High,24 Hours,2023-12-16,2023-12-27,11
+INC00123,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,High,24 Hours,2023-12-26,2023-12-30,4
+INC00124,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Low,1 Week,2023-12-29,2024-01-08,10
+INC00125,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Medium,3 Days,2024-01-05,2024-01-09,4
+INC00126,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Medium,3 Days,2023-12-16,2023-12-16,0
+INC00127,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,Critical,4 Hours,2024-01-05,2024-01-14,9
+INC00128,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,Critical,4 Hours,2024-01-07,2024-01-17,10
+INC00129,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Pending,High,24 Hours,2024-01-01,2024-01-07,6
+INC00130,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,High,24 Hours,2024-01-02,2024-01-14,12
+INC00131,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,High,24 Hours,2023-12-17,2023-12-22,5
+INC00132,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Low,1 Week,2023-12-17,2023-12-30,13
+INC00133,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Critical,4 Hours,2023-12-12,2023-12-17,5
+INC00134,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,Medium,3 Days,2023-12-11,2023-12-17,6
+INC00135,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Closed,Critical,4 Hours,2023-12-12,2023-12-26,14
+INC00136,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Critical,4 Hours,2023-12-15,2023-12-17,2
+INC00137,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,High,24 Hours,2023-12-29,2024-01-02,4
+INC00138,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Medium,3 Days,2024-01-06,2024-01-13,7
+INC00139,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Resolved,Low,1 Week,2023-12-27,2024-01-09,13
+INC00140,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Critical,4 Hours,2023-12-31,2024-01-09,9
+INC00141,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Escalated,Medium,3 Days,2023-12-23,2024-01-05,13
+INC00142,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,Critical,4 Hours,2023-12-23,2023-12-24,1
+INC00143,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,High,24 Hours,2023-12-19,2023-12-30,11
+INC00144,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,High,24 Hours,2023-12-18,2023-12-26,8
+INC00145,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,High,24 Hours,2023-12-31,2024-01-02,2
+INC00146,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,High,24 Hours,2023-12-16,2023-12-25,9
+INC00147,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Critical,4 Hours,2024-01-06,2024-01-16,10
+INC00148,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,Low,1 Week,2023-12-18,2023-12-29,11
+INC00149,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,Critical,4 Hours,2023-12-16,2023-12-23,7
+INC00150,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,High,24 Hours,2023-12-17,2023-12-17,0
+INC00151,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Low,1 Week,2023-12-17,2023-12-30,13
+INC00152,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Medium,3 Days,2024-01-04,2024-01-18,14
+INC00153,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,Medium,3 Days,2024-01-07,2024-01-12,5
+INC00154,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2024-01-07,2024-01-20,13
+INC00155,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Low,1 Week,2024-01-01,2024-01-05,4
+INC00156,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Critical,4 Hours,2024-01-04,2024-01-17,13
+INC00157,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Critical,4 Hours,2023-12-18,2023-12-27,9
+INC00158,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Medium,3 Days,2023-12-16,2023-12-17,1
+INC00159,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,High,24 Hours,2023-12-24,2024-01-05,12
+INC00160,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2023-12-26,2024-01-06,11
+INC00161,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Critical,4 Hours,2024-01-05,2024-01-14,9
+INC00162,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,Medium,3 Days,2024-01-09,2024-01-17,8
+INC00163,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Low,1 Week,2023-12-28,2024-01-06,9
+INC00164,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,High,24 Hours,2023-12-15,2023-12-23,8
+INC00165,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Low,1 Week,2023-12-17,2023-12-18,1
+INC00166,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Medium,3 Days,2023-12-14,2023-12-26,12
+INC00167,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Critical,4 Hours,2024-01-09,2024-01-23,14
+INC00168,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,High,24 Hours,2023-12-20,2023-12-31,11
+INC00169,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,High,24 Hours,2023-12-28,2024-01-10,13
+INC00170,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Critical,4 Hours,2023-12-30,2024-01-11,12
+INC00171,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,Medium,3 Days,2024-01-06,2024-01-12,6
+INC00172,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Resolved,Critical,4 Hours,2024-01-06,2024-01-13,7
+INC00173,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Medium,3 Days,2023-12-30,2024-01-01,2
+INC00174,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,High,24 Hours,2023-12-18,2024-01-01,14
+INC00175,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,Critical,4 Hours,2023-12-21,2023-12-26,5
+INC00176,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,Critical,4 Hours,2024-01-06,2024-01-09,3
+INC00177,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Closed,Low,1 Week,2024-01-03,2024-01-04,1
+INC00178,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Escalated,Low,1 Week,2024-01-05,2024-01-12,7
+INC00179,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Low,1 Week,2024-01-05,2024-01-17,12
+INC00180,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2024-01-07,2024-01-15,8
+INC00181,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Low,1 Week,2023-12-10,2023-12-23,13
+INC00182,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2023-12-15,2023-12-25,10
+INC00183,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,Critical,4 Hours,2023-12-31,2024-01-07,7
+INC00184,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,High,24 Hours,2023-12-12,2023-12-15,3
+INC00185,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,High,24 Hours,2024-01-09,2024-01-16,7
+INC00186,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Medium,3 Days,2024-01-05,2024-01-16,11
+INC00187,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Medium,3 Days,2024-01-09,2024-01-12,3
+INC00188,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Low,1 Week,2023-12-19,2023-12-20,1
+INC00189,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Low,1 Week,2023-12-11,2023-12-26,15
+INC00190,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Critical,4 Hours,2024-01-07,2024-01-11,4
+INC00191,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Medium,3 Days,2023-12-28,2023-12-30,2
+INC00192,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,High,24 Hours,2024-01-04,2024-01-04,0
+INC00193,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,High,24 Hours,2023-12-18,2023-12-30,12
+INC00194,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Medium,3 Days,2023-12-22,2023-12-23,1
+INC00195,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,High,24 Hours,2023-12-24,2024-01-01,8
+INC00196,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,High,24 Hours,2023-12-11,2023-12-16,5
+INC00197,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Medium,3 Days,2024-01-02,2024-01-15,13
+INC00198,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,High,24 Hours,2023-12-28,2023-12-29,1
+INC00199,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Medium,3 Days,2023-12-30,2024-01-10,11
+INC00200,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Low,1 Week,2023-12-21,2023-12-26,5
+INC00201,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,High,24 Hours,2023-12-28,2023-12-28,0
+INC00202,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,High,24 Hours,2024-01-01,2024-01-04,3
+INC00203,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Critical,4 Hours,2024-01-05,2024-01-12,7
+INC00204,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Critical,4 Hours,2023-12-11,2023-12-24,13
+INC00205,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Low,1 Week,2024-01-05,2024-01-15,10
+INC00206,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Medium,3 Days,2023-12-30,2024-01-04,5
+INC00207,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Low,1 Week,2023-12-30,2023-12-31,1
+INC00208,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Low,1 Week,2023-12-15,2023-12-27,12
+INC00209,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Medium,3 Days,2024-01-02,2024-01-14,12
+INC00210,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Escalated,Medium,3 Days,2024-01-09,2024-01-24,15
+INC00211,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Medium,3 Days,2023-12-21,2024-01-03,13
+INC00212,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Medium,3 Days,2023-12-13,2023-12-26,13
+INC00213,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Pending,Critical,4 Hours,2024-01-06,2024-01-10,4
+INC00214,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,High,24 Hours,2023-12-22,2023-12-31,9
+INC00215,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,Critical,4 Hours,2023-12-20,2024-01-03,14
+INC00216,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,High,24 Hours,2024-01-06,2024-01-06,0
+INC00217,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,High,24 Hours,2023-12-27,2023-12-27,0
+INC00218,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,High,24 Hours,2023-12-23,2024-01-03,11
+INC00219,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Medium,3 Days,2024-01-07,2024-01-18,11
+INC00220,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,Low,1 Week,2023-12-15,2023-12-26,11
+INC00221,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Low,1 Week,2023-12-17,2023-12-22,5
+INC00222,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,Medium,3 Days,2024-01-06,2024-01-09,3
+INC00223,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,High,24 Hours,2024-01-04,2024-01-07,3
+INC00224,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,High,24 Hours,2023-12-13,2023-12-23,10
+INC00225,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Escalated,High,24 Hours,2023-12-29,2024-01-03,5
+INC00226,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Escalated,Low,1 Week,2023-12-21,2023-12-31,10
+INC00227,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,High,24 Hours,2023-12-29,2024-01-04,6
+INC00228,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Low,1 Week,2023-12-15,2023-12-18,3
+INC00229,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Low,1 Week,2023-12-29,2024-01-13,15
+INC00230,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Critical,4 Hours,2023-12-10,2023-12-22,12
+INC00231,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Low,1 Week,2023-12-12,2023-12-15,3
+INC00232,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,High,24 Hours,2023-12-18,2023-12-31,13
+INC00233,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Medium,3 Days,2024-01-05,2024-01-16,11
+INC00234,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Low,1 Week,2023-12-30,2024-01-12,13
+INC00235,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Low,1 Week,2024-01-09,2024-01-24,15
+INC00236,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Medium,3 Days,2023-12-28,2024-01-10,13
+INC00237,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Critical,4 Hours,2023-12-13,2023-12-18,5
+INC00238,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Medium,3 Days,2023-12-22,2023-12-22,0
+INC00239,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,High,24 Hours,2023-12-30,2024-01-05,6
+INC00240,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,Low,1 Week,2023-12-17,2023-12-22,5
+INC00241,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Medium,3 Days,2023-12-10,2023-12-21,11
+INC00242,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Low,1 Week,2023-12-17,2024-01-01,15
+INC00243,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Medium,3 Days,2023-12-24,2023-12-28,4
+INC00244,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,High,24 Hours,2024-01-06,2024-01-16,10
+INC00245,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Medium,3 Days,2023-12-11,2023-12-26,15
+INC00246,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Medium,3 Days,2023-12-23,2023-12-29,6
+INC00247,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,Medium,3 Days,2023-12-11,2023-12-14,3
+INC00248,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Critical,4 Hours,2023-12-28,2024-01-10,13
+INC00249,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Critical,4 Hours,2023-12-31,2024-01-11,11
+INC00250,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Low,1 Week,2023-12-28,2024-01-07,10
+INC00251,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Low,1 Week,2023-12-23,2023-12-25,2
+INC00252,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Critical,4 Hours,2023-12-20,2023-12-27,7
+INC00253,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Low,1 Week,2023-12-27,2024-01-11,15
+INC00254,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,Critical,4 Hours,2024-01-02,2024-01-12,10
+INC00255,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Closed,High,24 Hours,2023-12-25,2024-01-08,14
+INC00256,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Low,1 Week,2024-01-03,2024-01-12,9
+INC00257,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Medium,3 Days,2023-12-30,2023-12-31,1
+INC00258,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,Critical,4 Hours,2024-01-05,2024-01-13,8
+INC00259,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2024-01-03,2024-01-18,15
+INC00260,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Medium,3 Days,2024-01-06,2024-01-10,4
+INC00261,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,Critical,4 Hours,2023-12-17,2024-01-01,15
+INC00262,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Critical,4 Hours,2023-12-28,2024-01-04,7
+INC00263,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,Low,1 Week,2024-01-01,2024-01-11,10
+INC00264,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,Medium,3 Days,2024-01-07,2024-01-09,2
+INC00265,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Medium,3 Days,2023-12-31,2024-01-14,14
+INC00266,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,Low,1 Week,2023-12-24,2024-01-07,14
+INC00267,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Critical,4 Hours,2023-12-27,2024-01-03,7
+INC00268,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,Medium,3 Days,2023-12-14,2023-12-22,8
+INC00269,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Medium,3 Days,2024-01-09,2024-01-23,14
+INC00270,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Medium,3 Days,2023-12-11,2023-12-13,2
+INC00271,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Escalated,Critical,4 Hours,2023-12-18,2023-12-20,2
+INC00272,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Closed,Critical,4 Hours,2023-12-30,2024-01-04,5
+INC00273,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Critical,4 Hours,2023-12-12,2023-12-15,3
+INC00274,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Medium,3 Days,2023-12-22,2024-01-06,15
+INC00275,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Medium,3 Days,2024-01-03,2024-01-12,9
+INC00276,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,Medium,3 Days,2023-12-29,2024-01-01,3
+INC00277,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Low,1 Week,2024-01-01,2024-01-02,1
+INC00278,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Critical,4 Hours,2023-12-17,2023-12-19,2
+INC00279,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Medium,3 Days,2024-01-04,2024-01-16,12
+INC00280,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Critical,4 Hours,2023-12-26,2024-01-01,6
+INC00281,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,High,24 Hours,2024-01-03,2024-01-09,6
+INC00282,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Critical,4 Hours,2023-12-22,2023-12-30,8
+INC00283,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Pending,Low,1 Week,2023-12-13,2023-12-20,7
+INC00284,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Closed,Medium,3 Days,2024-01-04,2024-01-13,9
+INC00285,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Resolved,Medium,3 Days,2023-12-12,2023-12-22,10
+INC00286,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Critical,4 Hours,2023-12-16,2023-12-31,15
+INC00287,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,High,24 Hours,2023-12-29,2024-01-01,3
+INC00288,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,High,24 Hours,2024-01-03,2024-01-11,8
+INC00289,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Low,1 Week,2024-01-06,2024-01-11,5
+INC00290,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,Critical,4 Hours,2023-12-22,2023-12-31,9
+INC00291,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2023-12-28,2024-01-08,11
+INC00292,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,High,24 Hours,2023-12-21,2023-12-27,6
+INC00293,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Low,1 Week,2023-12-22,2023-12-31,9
+INC00294,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,High,24 Hours,2024-01-08,2024-01-10,2
+INC00295,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Critical,4 Hours,2024-01-06,2024-01-10,4
+INC00296,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Low,1 Week,2024-01-05,2024-01-10,5
+INC00297,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Escalated,Medium,3 Days,2023-12-25,2024-01-02,8
+INC00298,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Escalated,Medium,3 Days,2024-01-01,2024-01-16,15
+INC00299,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,Critical,4 Hours,2023-12-25,2023-12-25,0
+INC00300,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,High,24 Hours,2023-12-20,2023-12-22,2
+INC00301,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Pending,Critical,4 Hours,2023-12-31,2024-01-03,3
+INC00302,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Medium,3 Days,2023-12-29,2024-01-02,4
+INC00303,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Resolved,Medium,3 Days,2023-12-18,2024-01-01,14
+INC00304,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,Medium,3 Days,2024-01-01,2024-01-08,7
+INC00305,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Low,1 Week,2023-12-24,2024-01-05,12
+INC00306,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,High,24 Hours,2023-12-13,2023-12-27,14
+INC00307,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Medium,3 Days,2023-12-22,2023-12-23,1
+INC00308,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,High,24 Hours,2024-01-04,2024-01-09,5
+INC00309,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,High,24 Hours,2023-12-12,2023-12-14,2
+INC00310,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,High,24 Hours,2023-12-25,2024-01-02,8
+INC00311,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Low,1 Week,2023-12-24,2023-12-31,7
+INC00312,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Low,1 Week,2023-12-21,2023-12-21,0
+INC00313,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Escalated,High,24 Hours,2023-12-12,2023-12-16,4
+INC00314,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Critical,4 Hours,2024-01-09,2024-01-23,14
+INC00315,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Pending,High,24 Hours,2023-12-14,2023-12-14,0
+INC00316,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Critical,4 Hours,2023-12-30,2024-01-12,13
+INC00317,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Critical,4 Hours,2023-12-16,2023-12-31,15
+INC00318,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,Low,1 Week,2024-01-06,2024-01-11,5
+INC00319,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Medium,3 Days,2023-12-26,2023-12-30,4
+INC00320,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Pending,Medium,3 Days,2023-12-24,2023-12-29,5
+INC00321,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Pending,High,24 Hours,2024-01-09,2024-01-11,2
+INC00322,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2024-01-07,2024-01-17,10
+INC00323,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Critical,4 Hours,2024-01-09,2024-01-17,8
+INC00324,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Critical,4 Hours,2023-12-20,2023-12-22,2
+INC00325,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Low,1 Week,2024-01-07,2024-01-10,3
+INC00326,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Medium,3 Days,2024-01-06,2024-01-06,0
+INC00327,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Critical,4 Hours,2023-12-12,2023-12-19,7
+INC00328,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Medium,3 Days,2024-01-07,2024-01-17,10
+INC00329,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Medium,3 Days,2024-01-01,2024-01-02,1
+INC00330,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2023-12-25,2024-01-02,8
+INC00331,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,High,24 Hours,2023-12-20,2023-12-31,11
+INC00332,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,High,24 Hours,2023-12-29,2024-01-07,9
+INC00333,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,High,24 Hours,2023-12-23,2024-01-05,13
+INC00334,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Critical,4 Hours,2023-12-20,2024-01-01,12
+INC00335,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Escalated,High,24 Hours,2023-12-24,2023-12-29,5
+INC00336,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,High,24 Hours,2024-01-05,2024-01-20,15
+INC00337,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Low,1 Week,2024-01-08,2024-01-12,4
+INC00338,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,High,24 Hours,2023-12-16,2023-12-28,12
+INC00339,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,High,24 Hours,2024-01-03,2024-01-16,13
+INC00340,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,Medium,3 Days,2023-12-17,2023-12-17,0
+INC00341,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,Critical,4 Hours,2023-12-17,2023-12-30,13
+INC00342,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,High,24 Hours,2024-01-04,2024-01-13,9
+INC00343,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Medium,3 Days,2024-01-05,2024-01-15,10
+INC00344,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,High,24 Hours,2023-12-19,2024-01-03,15
+INC00345,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Escalated,Medium,3 Days,2023-12-17,2024-01-01,15
+INC00346,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,High,24 Hours,2023-12-13,2023-12-15,2
+INC00347,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,High,24 Hours,2024-01-09,2024-01-24,15
+INC00348,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,High,24 Hours,2023-12-23,2023-12-29,6
+INC00349,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Low,1 Week,2024-01-07,2024-01-08,1
+INC00350,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2024-01-08,2024-01-20,12
+INC00351,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Critical,4 Hours,2023-12-15,2023-12-19,4
+INC00352,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,High,24 Hours,2023-12-20,2024-01-01,12
+INC00353,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Escalated,Critical,4 Hours,2023-12-15,2023-12-19,4
+INC00354,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Low,1 Week,2023-12-14,2023-12-26,12
+INC00355,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Low,1 Week,2024-01-02,2024-01-17,15
+INC00356,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,Low,1 Week,2023-12-20,2023-12-26,6
+INC00357,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Low,1 Week,2023-12-20,2024-01-02,13
+INC00358,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Closed,Critical,4 Hours,2023-12-20,2023-12-23,3
+INC00359,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Low,1 Week,2024-01-02,2024-01-02,0
+INC00360,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,High,24 Hours,2023-12-16,2023-12-23,7
+INC00361,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,Medium,3 Days,2023-12-28,2024-01-08,11
+INC00362,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Low,1 Week,2024-01-02,2024-01-10,8
+INC00363,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Pending,High,24 Hours,2023-12-12,2023-12-12,0
+INC00364,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Critical,4 Hours,2023-12-10,2023-12-21,11
+INC00365,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Critical,4 Hours,2023-12-15,2023-12-25,10
+INC00366,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Medium,3 Days,2024-01-03,2024-01-09,6
+INC00367,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Low,1 Week,2024-01-04,2024-01-15,11
+INC00368,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Pending,Low,1 Week,2023-12-10,2023-12-24,14
+INC00369,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Critical,4 Hours,2023-12-20,2023-12-26,6
+INC00370,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,Critical,4 Hours,2024-01-03,2024-01-06,3
+INC00371,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Low,1 Week,2024-01-07,2024-01-09,2
+INC00372,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Critical,4 Hours,2023-12-28,2024-01-10,13
+INC00373,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Pending,Medium,3 Days,2023-12-21,2024-01-01,11
+INC00374,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Critical,4 Hours,2024-01-08,2024-01-21,13
+INC00375,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Critical,4 Hours,2023-12-20,2023-12-29,9
+INC00376,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Low,1 Week,2024-01-03,2024-01-04,1
+INC00377,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Low,1 Week,2023-12-19,2024-01-02,14
+INC00378,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Escalated,Medium,3 Days,2024-01-01,2024-01-10,9
+INC00379,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Medium,3 Days,2023-12-19,2024-01-03,15
+INC00380,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Medium,3 Days,2024-01-02,2024-01-10,8
+INC00381,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Low,1 Week,2024-01-03,2024-01-16,13
+INC00382,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Low,1 Week,2023-12-26,2023-12-26,0
+INC00383,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,Low,1 Week,2024-01-01,2024-01-13,12
+INC00384,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,High,24 Hours,2024-01-01,2024-01-01,0
+INC00385,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,Low,1 Week,2023-12-23,2023-12-25,2
+INC00386,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,Low,1 Week,2023-12-16,2023-12-25,9
+INC00387,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Critical,4 Hours,2023-12-21,2024-01-02,12
+INC00388,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Resolved,Medium,3 Days,2024-01-06,2024-01-15,9
+INC00389,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,High,24 Hours,2024-01-03,2024-01-05,2
+INC00390,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Medium,3 Days,2023-12-26,2023-12-31,5
+INC00391,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2023-12-17,2023-12-26,9
+INC00392,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Critical,4 Hours,2023-12-14,2023-12-16,2
+INC00393,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Low,1 Week,2023-12-26,2023-12-26,0
+INC00394,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,High,24 Hours,2023-12-19,2023-12-31,12
+INC00395,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,High,24 Hours,2023-12-10,2023-12-18,8
+INC00396,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Medium,3 Days,2023-12-12,2023-12-13,1
+INC00397,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Low,1 Week,2023-12-19,2023-12-22,3
+INC00398,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,High,24 Hours,2023-12-18,2023-12-19,1
+INC00399,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Medium,3 Days,2023-12-27,2024-01-06,10
+INC00400,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Critical,4 Hours,2023-12-26,2024-01-05,10
+INC00401,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Medium,3 Days,2024-01-09,2024-01-16,7
+INC00402,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Low,1 Week,2024-01-03,2024-01-18,15
+INC00403,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,Critical,4 Hours,2023-12-11,2023-12-17,6
+INC00404,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Critical,4 Hours,2023-12-14,2023-12-17,3
+INC00405,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,Medium,3 Days,2024-01-09,2024-01-13,4
+INC00406,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Low,1 Week,2024-01-04,2024-01-14,10
+INC00407,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Medium,3 Days,2024-01-02,2024-01-11,9
+INC00408,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,High,24 Hours,2024-01-09,2024-01-11,2
+INC00409,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,Medium,3 Days,2023-12-13,2023-12-16,3
+INC00410,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,High,24 Hours,2024-01-08,2024-01-22,14
+INC00411,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Low,1 Week,2023-12-23,2023-12-30,7
+INC00412,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Medium,3 Days,2024-01-03,2024-01-05,2
+INC00413,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Critical,4 Hours,2023-12-21,2023-12-24,3
+INC00414,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Escalated,Critical,4 Hours,2023-12-22,2024-01-06,15
+INC00415,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Medium,3 Days,2024-01-02,2024-01-13,11
+INC00416,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,Critical,4 Hours,2024-01-08,2024-01-14,6
+INC00417,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Medium,3 Days,2023-12-10,2023-12-12,2
+INC00418,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Critical,4 Hours,2023-12-21,2024-01-05,15
+INC00419,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,Critical,4 Hours,2024-01-05,2024-01-17,12
+INC00420,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,Medium,3 Days,2023-12-15,2023-12-15,0
+INC00421,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Escalated,Medium,3 Days,2024-01-04,2024-01-07,3
+INC00422,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,Medium,3 Days,2023-12-26,2023-12-30,4
+INC00423,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,High,24 Hours,2024-01-02,2024-01-11,9
+INC00424,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,High,24 Hours,2024-01-09,2024-01-12,3
+INC00425,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Low,1 Week,2023-12-16,2023-12-24,8
+INC00426,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Low,1 Week,2023-12-14,2023-12-15,1
+INC00427,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Medium,3 Days,2023-12-20,2023-12-28,8
+INC00428,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Critical,4 Hours,2024-01-08,2024-01-08,0
+INC00429,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,Low,1 Week,2023-12-24,2023-12-31,7
+INC00430,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,High,24 Hours,2023-12-17,2023-12-25,8
+INC00431,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,High,24 Hours,2024-01-09,2024-01-20,11
+INC00432,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2024-01-06,2024-01-13,7
+INC00433,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Closed,Medium,3 Days,2023-12-11,2023-12-11,0
+INC00434,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,High,24 Hours,2024-01-05,2024-01-10,5
+INC00435,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,High,24 Hours,2023-12-14,2023-12-17,3
+INC00436,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Critical,4 Hours,2023-12-28,2024-01-06,9
+INC00437,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Resolved,Low,1 Week,2024-01-02,2024-01-04,2
+INC00438,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Medium,3 Days,2023-12-20,2023-12-30,10
+INC00439,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Escalated,Low,1 Week,2023-12-10,2023-12-18,8
+INC00440,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,High,24 Hours,2023-12-29,2024-01-02,4
+INC00441,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,Critical,4 Hours,2024-01-06,2024-01-17,11
+INC00442,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,High,24 Hours,2024-01-03,2024-01-07,4
+INC00443,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Medium,3 Days,2024-01-02,2024-01-06,4
+INC00444,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Resolved,High,24 Hours,2023-12-31,2023-12-31,0
+INC00445,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,High,24 Hours,2023-12-18,2023-12-30,12
+INC00446,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Low,1 Week,2023-12-26,2024-01-02,7
+INC00447,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Medium,3 Days,2023-12-26,2024-01-02,7
+INC00448,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Low,1 Week,2023-12-22,2023-12-23,1
+INC00449,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,High,24 Hours,2023-12-18,2023-12-30,12
+INC00450,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Medium,3 Days,2023-12-19,2023-12-30,11
+INC00451,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,Critical,4 Hours,2024-01-02,2024-01-12,10
+INC00452,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Critical,4 Hours,2023-12-31,2024-01-15,15
+INC00453,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,High,24 Hours,2023-12-23,2023-12-28,5
+INC00454,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Medium,3 Days,2023-12-19,2023-12-25,6
+INC00455,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Critical,4 Hours,2023-12-27,2024-01-09,13
+INC00456,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Medium,3 Days,2023-12-22,2024-01-05,14
+INC00457,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,Critical,4 Hours,2023-12-13,2023-12-20,7
+INC00458,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Low,1 Week,2023-12-20,2023-12-20,0
+INC00459,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,High,24 Hours,2024-01-04,2024-01-12,8
+INC00460,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Medium,3 Days,2023-12-29,2024-01-10,12
+INC00461,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,Low,1 Week,2023-12-15,2023-12-17,2
+INC00462,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Critical,4 Hours,2023-12-28,2024-01-01,4
+INC00463,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2023-12-10,2023-12-15,5
+INC00464,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,High,24 Hours,2024-01-07,2024-01-21,14
+INC00465,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,High,24 Hours,2023-12-23,2024-01-02,10
+INC00466,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Critical,4 Hours,2023-12-17,2023-12-29,12
+INC00467,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,High,24 Hours,2023-12-10,2023-12-13,3
+INC00468,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Medium,3 Days,2023-12-15,2023-12-15,0
+INC00469,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,Low,1 Week,2023-12-15,2023-12-20,5
+INC00470,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,Critical,4 Hours,2024-01-03,2024-01-09,6
+INC00471,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,High,24 Hours,2023-12-27,2024-01-07,11
+INC00472,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Low,1 Week,2023-12-14,2023-12-25,11
+INC00473,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,Critical,4 Hours,2023-12-12,2023-12-24,12
+INC00474,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Critical,4 Hours,2023-12-20,2023-12-28,8
+INC00475,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2024-01-03,2024-01-04,1
+INC00476,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Closed,Low,1 Week,2023-12-20,2023-12-30,10
+INC00477,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,Medium,3 Days,2024-01-09,2024-01-21,12
+INC00478,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Medium,3 Days,2023-12-22,2023-12-23,1
+INC00479,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Critical,4 Hours,2023-12-21,2023-12-22,1
+INC00480,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,Medium,3 Days,2023-12-12,2023-12-19,7
+INC00481,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Critical,4 Hours,2023-12-16,2023-12-25,9
+INC00482,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Medium,3 Days,2024-01-08,2024-01-15,7
+INC00483,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Pending,Low,1 Week,2024-01-04,2024-01-04,0
+INC00484,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Medium,3 Days,2024-01-04,2024-01-06,2
+INC00485,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,High,24 Hours,2023-12-26,2024-01-02,7
+INC00486,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Critical,4 Hours,2023-12-20,2023-12-29,9
+INC00487,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Critical,4 Hours,2023-12-16,2023-12-16,0
+INC00488,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Medium,3 Days,2023-12-14,2023-12-14,0
+INC00489,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Low,1 Week,2023-12-14,2023-12-26,12
+INC00490,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Critical,4 Hours,2023-12-21,2024-01-04,14
+INC00491,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Medium,3 Days,2023-12-17,2023-12-28,11
+INC00492,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2023-12-13,2023-12-22,9
+INC00493,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Medium,3 Days,2023-12-11,2023-12-26,15
+INC00494,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Pending,Low,1 Week,2023-12-29,2024-01-04,6
+INC00495,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,High,24 Hours,2023-12-10,2023-12-21,11
+INC00496,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Pending,High,24 Hours,2023-12-11,2023-12-17,6
+INC00497,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,High,24 Hours,2023-12-24,2024-01-05,12
+INC00498,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Medium,3 Days,2023-12-27,2023-12-31,4
+INC00499,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,Medium,3 Days,2023-12-16,2023-12-21,5
+INC00500,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,Critical,4 Hours,2023-12-16,2023-12-30,14
+INC00501,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Critical,4 Hours,2023-12-25,2024-01-03,9
+INC00502,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Medium,3 Days,2023-12-24,2023-12-25,1
+INC00503,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2024-01-09,2024-01-17,8
+INC00504,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Critical,4 Hours,2023-12-27,2023-12-29,2
+INC00505,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Low,1 Week,2023-12-29,2023-12-31,2
+INC00506,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Low,1 Week,2023-12-11,2023-12-14,3
+INC00507,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,High,24 Hours,2023-12-11,2023-12-16,5
+INC00508,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,High,24 Hours,2023-12-21,2023-12-27,6
+INC00509,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,High,24 Hours,2023-12-30,2024-01-03,4
+INC00510,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Closed,Medium,3 Days,2023-12-22,2024-01-02,11
+INC00511,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Escalated,Low,1 Week,2023-12-25,2024-01-04,10
+INC00512,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Low,1 Week,2024-01-06,2024-01-17,11
+INC00513,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,Low,1 Week,2023-12-24,2023-12-29,5
+INC00514,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Medium,3 Days,2023-12-28,2024-01-09,12
+INC00515,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Medium,3 Days,2024-01-03,2024-01-07,4
+INC00516,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Medium,3 Days,2023-12-12,2023-12-16,4
+INC00517,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,Low,1 Week,2023-12-28,2023-12-30,2
+INC00518,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Medium,3 Days,2023-12-12,2023-12-25,13
+INC00519,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,High,24 Hours,2023-12-16,2023-12-23,7
+INC00520,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Critical,4 Hours,2023-12-22,2024-01-04,13
+INC00521,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Low,1 Week,2023-12-24,2023-12-25,1
+INC00522,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Medium,3 Days,2024-01-04,2024-01-12,8
+INC00523,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Critical,4 Hours,2023-12-16,2023-12-28,12
+INC00524,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2023-12-13,2023-12-26,13
+INC00525,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Critical,4 Hours,2023-12-11,2023-12-14,3
+INC00526,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,High,24 Hours,2024-01-05,2024-01-10,5
+INC00527,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,Critical,4 Hours,2023-12-12,2023-12-23,11
+INC00528,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Low,1 Week,2023-12-20,2023-12-22,2
+INC00529,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,Medium,3 Days,2023-12-24,2024-01-03,10
+INC00530,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2023-12-23,2024-01-05,13
+INC00531,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Medium,3 Days,2024-01-09,2024-01-24,15
+INC00532,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,Low,1 Week,2023-12-30,2024-01-11,12
+INC00533,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Critical,4 Hours,2023-12-25,2024-01-01,7
+INC00534,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Medium,3 Days,2023-12-30,2024-01-08,9
+INC00535,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Medium,3 Days,2023-12-27,2023-12-28,1
+INC00536,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,High,24 Hours,2024-01-08,2024-01-22,14
+INC00537,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Critical,4 Hours,2023-12-11,2023-12-14,3
+INC00538,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,High,24 Hours,2024-01-04,2024-01-18,14
+INC00539,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Medium,3 Days,2023-12-16,2023-12-30,14
+INC00540,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,High,24 Hours,2023-12-10,2023-12-14,4
+INC00541,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Pending,Medium,3 Days,2023-12-28,2024-01-03,6
+INC00542,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,High,24 Hours,2023-12-28,2024-01-05,8
+INC00543,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,Low,1 Week,2024-01-02,2024-01-17,15
+INC00544,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Closed,Critical,4 Hours,2023-12-18,2023-12-24,6
+INC00545,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,High,24 Hours,2023-12-20,2024-01-01,12
+INC00546,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Medium,3 Days,2023-12-10,2023-12-16,6
+INC00547,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2023-12-19,2023-12-19,0
+INC00548,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Critical,4 Hours,2023-12-27,2023-12-27,0
+INC00549,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Critical,4 Hours,2023-12-28,2023-12-29,1
+INC00550,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Closed,Low,1 Week,2024-01-05,2024-01-11,6
+INC00551,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,Medium,3 Days,2024-01-04,2024-01-14,10
+INC00552,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Escalated,High,24 Hours,2023-12-22,2024-01-01,10
+INC00553,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Closed,Medium,3 Days,2024-01-07,2024-01-19,12
+INC00554,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Low,1 Week,2024-01-01,2024-01-06,5
+INC00555,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Medium,3 Days,2024-01-02,2024-01-17,15
+INC00556,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Critical,4 Hours,2023-12-17,2023-12-17,0
+INC00557,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Low,1 Week,2023-12-15,2023-12-23,8
+INC00558,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,High,24 Hours,2023-12-17,2023-12-19,2
+INC00559,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Pending,Low,1 Week,2023-12-14,2023-12-14,0
+INC00560,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,High,24 Hours,2023-12-21,2024-01-05,15
+INC00561,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,Medium,3 Days,2023-12-11,2023-12-18,7
+INC00562,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Low,1 Week,2023-12-16,2023-12-30,14
+INC00563,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Medium,3 Days,2024-01-01,2024-01-02,1
+INC00564,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Low,1 Week,2023-12-22,2024-01-01,10
+INC00565,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Resolved,Low,1 Week,2023-12-30,2024-01-13,14
+INC00566,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,High,24 Hours,2023-12-25,2024-01-09,15
+INC00567,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Low,1 Week,2023-12-22,2023-12-27,5
+INC00568,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Medium,3 Days,2023-12-14,2023-12-17,3
+INC00569,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Medium,3 Days,2023-12-31,2024-01-05,5
+INC00570,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Pending,Medium,3 Days,2023-12-20,2024-01-01,12
+INC00571,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Critical,4 Hours,2023-12-18,2023-12-18,0
+INC00572,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,High,24 Hours,2023-12-17,2024-01-01,15
+INC00573,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Resolved,Low,1 Week,2023-12-13,2023-12-22,9
+INC00574,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Resolved,Medium,3 Days,2024-01-06,2024-01-06,0
+INC00575,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Medium,3 Days,2024-01-07,2024-01-17,10
+INC00576,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Low,1 Week,2023-12-27,2024-01-10,14
+INC00577,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Closed,Medium,3 Days,2023-12-10,2023-12-16,6
+INC00578,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2023-12-19,2024-01-03,15
+INC00579,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2024-01-03,2024-01-10,7
+INC00580,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Medium,3 Days,2024-01-01,2024-01-14,13
+INC00581,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Critical,4 Hours,2023-12-30,2024-01-03,4
+INC00582,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,Critical,4 Hours,2024-01-06,2024-01-13,7
+INC00583,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Critical,4 Hours,2023-12-11,2023-12-23,12
+INC00584,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Critical,4 Hours,2024-01-08,2024-01-20,12
+INC00585,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Escalated,High,24 Hours,2023-12-23,2024-01-05,13
+INC00586,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Resolved,Critical,4 Hours,2023-12-13,2023-12-16,3
+INC00587,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,High,24 Hours,2024-01-06,2024-01-11,5
+INC00588,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Critical,4 Hours,2023-12-22,2024-01-03,12
+INC00589,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,Low,1 Week,2023-12-15,2023-12-17,2
+INC00590,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,High,24 Hours,2023-12-28,2024-01-11,14
+INC00591,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Pending,Critical,4 Hours,2023-12-26,2023-12-30,4
+INC00592,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,High,24 Hours,2023-12-19,2023-12-19,0
+INC00593,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Critical,4 Hours,2023-12-26,2023-12-28,2
+INC00594,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,High,24 Hours,2023-12-24,2024-01-08,15
+INC00595,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,Medium,3 Days,2023-12-11,2023-12-11,0
+INC00596,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,High,24 Hours,2024-01-07,2024-01-17,10
+INC00597,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Pending,High,24 Hours,2023-12-11,2023-12-26,15
+INC00598,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Medium,3 Days,2024-01-05,2024-01-11,6
+INC00599,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Critical,4 Hours,2023-12-17,2023-12-23,6
+INC00600,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2023-12-16,2023-12-20,4
+INC00601,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Escalated,High,24 Hours,2023-12-22,2024-01-01,10
+INC00602,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,High,24 Hours,2023-12-28,2024-01-01,4
+INC00603,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Escalated,Medium,3 Days,2024-01-03,2024-01-14,11
+INC00604,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,High,24 Hours,2023-12-24,2023-12-25,1
+INC00605,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Critical,4 Hours,2024-01-08,2024-01-22,14
+INC00606,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Medium,3 Days,2024-01-08,2024-01-22,14
+INC00607,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,High,24 Hours,2023-12-13,2023-12-27,14
+INC00608,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Low,1 Week,2023-12-21,2023-12-28,7
+INC00609,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,Critical,4 Hours,2023-12-19,2023-12-27,8
+INC00610,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Medium,3 Days,2023-12-30,2023-12-31,1
+INC00611,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Critical,4 Hours,2023-12-14,2023-12-15,1
+INC00612,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Medium,3 Days,2024-01-02,2024-01-04,2
+INC00613,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Critical,4 Hours,2023-12-17,2023-12-17,0
+INC00614,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,High,24 Hours,2023-12-23,2023-12-23,0
+INC00615,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,High,24 Hours,2024-01-08,2024-01-09,1
+INC00616,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,High,24 Hours,2023-12-25,2024-01-05,11
+INC00617,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,High,24 Hours,2023-12-19,2023-12-19,0
+INC00618,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Medium,3 Days,2023-12-25,2024-01-06,12
+INC00619,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Medium,3 Days,2023-12-19,2024-01-02,14
+INC00620,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Critical,4 Hours,2024-01-01,2024-01-15,14
+INC00621,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,High,24 Hours,2023-12-22,2024-01-06,15
+INC00622,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,Low,1 Week,2023-12-18,2024-01-01,14
+INC00623,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Low,1 Week,2023-12-26,2024-01-06,11
+INC00624,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Low,1 Week,2024-01-05,2024-01-13,8
+INC00625,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Medium,3 Days,2023-12-24,2024-01-05,12
+INC00626,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,High,24 Hours,2023-12-23,2023-12-30,7
+INC00627,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Critical,4 Hours,2024-01-04,2024-01-08,4
+INC00628,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Critical,4 Hours,2024-01-09,2024-01-09,0
+INC00629,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Low,1 Week,2023-12-15,2023-12-15,0
+INC00630,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Low,1 Week,2023-12-29,2024-01-10,12
+INC00631,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Critical,4 Hours,2023-12-28,2023-12-29,1
+INC00632,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Escalated,Low,1 Week,2024-01-08,2024-01-19,11
+INC00633,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Critical,4 Hours,2024-01-05,2024-01-11,6
+INC00634,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Escalated,High,24 Hours,2024-01-08,2024-01-15,7
+INC00635,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,High,24 Hours,2023-12-15,2023-12-16,1
+INC00636,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Medium,3 Days,2023-12-12,2023-12-18,6
+INC00637,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,Critical,4 Hours,2023-12-25,2023-12-31,6
+INC00638,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Medium,3 Days,2024-01-07,2024-01-18,11
+INC00639,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2023-12-10,2023-12-15,5
+INC00640,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2023-12-11,2023-12-22,11
+INC00641,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,Medium,3 Days,2024-01-08,2024-01-08,0
+INC00642,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Low,1 Week,2023-12-11,2023-12-24,13
+INC00643,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Low,1 Week,2023-12-26,2023-12-31,5
+INC00644,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Escalated,Medium,3 Days,2024-01-08,2024-01-16,8
+INC00645,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,High,24 Hours,2024-01-05,2024-01-06,1
+INC00646,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Medium,3 Days,2023-12-28,2024-01-07,10
+INC00647,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Critical,4 Hours,2023-12-12,2023-12-14,2
+INC00648,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Low,1 Week,2024-01-02,2024-01-11,9
+INC00649,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,High,24 Hours,2024-01-09,2024-01-23,14
+INC00650,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Critical,4 Hours,2023-12-14,2023-12-16,2
+INC00651,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2024-01-03,2024-01-13,10
+INC00652,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,High,24 Hours,2024-01-03,2024-01-06,3
+INC00653,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,Medium,3 Days,2023-12-28,2024-01-04,7
+INC00654,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,Low,1 Week,2023-12-25,2023-12-31,6
+INC00655,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Critical,4 Hours,2023-12-12,2023-12-16,4
+INC00656,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Escalated,Low,1 Week,2024-01-05,2024-01-19,14
+INC00657,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,High,24 Hours,2023-12-29,2024-01-06,8
+INC00658,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Medium,3 Days,2023-12-18,2023-12-27,9
+INC00659,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Resolved,Low,1 Week,2023-12-14,2023-12-21,7
+INC00660,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Medium,3 Days,2023-12-15,2023-12-17,2
+INC00661,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Critical,4 Hours,2024-01-07,2024-01-12,5
+INC00662,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Critical,4 Hours,2023-12-15,2023-12-26,11
+INC00663,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Low,1 Week,2024-01-06,2024-01-14,8
+INC00664,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2023-12-22,2024-01-03,12
+INC00665,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Medium,3 Days,2024-01-06,2024-01-18,12
+INC00666,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2024-01-01,2024-01-01,0
+INC00667,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Critical,4 Hours,2024-01-07,2024-01-08,1
+INC00668,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Medium,3 Days,2023-12-26,2024-01-09,14
+INC00669,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Closed,Medium,3 Days,2023-12-13,2023-12-17,4
+INC00670,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Medium,3 Days,2023-12-15,2023-12-17,2
+INC00671,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Low,1 Week,2023-12-17,2023-12-24,7
+INC00672,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,Critical,4 Hours,2023-12-12,2023-12-19,7
+INC00673,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Pending,Critical,4 Hours,2023-12-13,2023-12-18,5
+INC00674,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Medium,3 Days,2023-12-11,2023-12-24,13
+INC00675,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Critical,4 Hours,2023-12-23,2023-12-30,7
+INC00676,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,Critical,4 Hours,2024-01-04,2024-01-19,15
+INC00677,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,High,24 Hours,2023-12-28,2024-01-11,14
+INC00678,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Critical,4 Hours,2023-12-20,2023-12-21,1
+INC00679,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,High,24 Hours,2023-12-30,2024-01-06,7
+INC00680,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,High,24 Hours,2023-12-30,2024-01-13,14
+INC00681,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Critical,4 Hours,2024-01-04,2024-01-07,3
+INC00682,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Critical,4 Hours,2023-12-11,2023-12-26,15
+INC00683,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Escalated,Low,1 Week,2023-12-30,2024-01-05,6
+INC00684,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Critical,4 Hours,2023-12-22,2023-12-22,0
+INC00685,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Medium,3 Days,2023-12-11,2023-12-21,10
+INC00686,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Critical,4 Hours,2023-12-18,2023-12-22,4
+INC00687,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Medium,3 Days,2023-12-19,2023-12-28,9
+INC00688,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Escalated,High,24 Hours,2024-01-09,2024-01-21,12
+INC00689,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,High,24 Hours,2023-12-28,2024-01-10,13
+INC00690,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Low,1 Week,2023-12-19,2024-01-03,15
+INC00691,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,Critical,4 Hours,2024-01-04,2024-01-16,12
+INC00692,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Low,1 Week,2023-12-27,2023-12-29,2
+INC00693,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,Low,1 Week,2023-12-31,2024-01-07,7
+INC00694,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,High,24 Hours,2023-12-13,2023-12-19,6
+INC00695,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Low,1 Week,2023-12-23,2023-12-28,5
+INC00696,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Medium,3 Days,2023-12-19,2024-01-03,15
+INC00697,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Closed,Critical,4 Hours,2023-12-30,2024-01-05,6
+INC00698,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2023-12-27,2024-01-09,13
+INC00699,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Critical,4 Hours,2024-01-03,2024-01-17,14
+INC00700,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,High,24 Hours,2024-01-02,2024-01-17,15
+INC00701,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Medium,3 Days,2024-01-08,2024-01-18,10
+INC00702,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Escalated,High,24 Hours,2023-12-31,2024-01-09,9
+INC00703,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Resolved,Low,1 Week,2024-01-09,2024-01-09,0
+INC00704,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,Medium,3 Days,2024-01-09,2024-01-10,1
+INC00705,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Low,1 Week,2024-01-04,2024-01-16,12
+INC00706,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Medium,3 Days,2024-01-06,2024-01-17,11
+INC00707,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Critical,4 Hours,2024-01-03,2024-01-03,0
+INC00708,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Medium,3 Days,2023-12-18,2023-12-30,12
+INC00709,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Low,1 Week,2023-12-19,2023-12-24,5
+INC00710,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Closed,High,24 Hours,2024-01-02,2024-01-04,2
+INC00711,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,Medium,3 Days,2023-12-23,2024-01-03,11
+INC00712,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Critical,4 Hours,2023-12-30,2024-01-12,13
+INC00713,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2023-12-28,2024-01-03,6
+INC00714,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Medium,3 Days,2023-12-29,2024-01-08,10
+INC00715,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Medium,3 Days,2023-12-17,2023-12-27,10
+INC00716,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2023-12-27,2024-01-07,11
+INC00717,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Low,1 Week,2024-01-03,2024-01-12,9
+INC00718,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,High,24 Hours,2023-12-17,2023-12-22,5
+INC00719,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Closed,High,24 Hours,2023-12-19,2023-12-21,2
+INC00720,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,Critical,4 Hours,2023-12-18,2024-01-02,15
+INC00721,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,Low,1 Week,2023-12-16,2023-12-21,5
+INC00722,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Critical,4 Hours,2024-01-07,2024-01-22,15
+INC00723,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Low,1 Week,2024-01-06,2024-01-18,12
+INC00724,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,High,24 Hours,2024-01-08,2024-01-13,5
+INC00725,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2023-12-24,2024-01-05,12
+INC00726,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,Critical,4 Hours,2024-01-02,2024-01-03,1
+INC00727,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,Medium,3 Days,2024-01-06,2024-01-12,6
+INC00728,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Medium,3 Days,2024-01-01,2024-01-16,15
+INC00729,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Resolved,Low,1 Week,2023-12-10,2023-12-21,11
+INC00730,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Escalated,Critical,4 Hours,2023-12-15,2023-12-25,10
+INC00731,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Medium,3 Days,2023-12-13,2023-12-24,11
+INC00732,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Medium,3 Days,2023-12-31,2024-01-07,7
+INC00733,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Low,1 Week,2023-12-20,2023-12-27,7
+INC00734,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Critical,4 Hours,2023-12-14,2023-12-18,4
+INC00735,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Low,1 Week,2023-12-16,2023-12-30,14
+INC00736,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Pending,Low,1 Week,2023-12-15,2023-12-21,6
+INC00737,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,Low,1 Week,2024-01-08,2024-01-16,8
+INC00738,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,Low,1 Week,2023-12-17,2023-12-23,6
+INC00739,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2024-01-06,2024-01-15,9
+INC00740,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,High,24 Hours,2024-01-04,2024-01-15,11
+INC00741,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,Low,1 Week,2023-12-22,2023-12-26,4
+INC00742,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Escalated,Low,1 Week,2023-12-26,2024-01-07,12
+INC00743,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,Critical,4 Hours,2023-12-29,2024-01-03,5
+INC00744,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,High,24 Hours,2023-12-21,2024-01-04,14
+INC00745,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,Medium,3 Days,2023-12-15,2023-12-26,11
+INC00746,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,Low,1 Week,2024-01-03,2024-01-06,3
+INC00747,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Critical,4 Hours,2024-01-02,2024-01-12,10
+INC00748,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Medium,3 Days,2024-01-02,2024-01-04,2
+INC00749,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Low,1 Week,2024-01-01,2024-01-15,14
+INC00750,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Escalated,Critical,4 Hours,2023-12-22,2023-12-28,6
+INC00751,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,High,24 Hours,2023-12-20,2023-12-24,4
+INC00752,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,High,24 Hours,2024-01-08,2024-01-08,0
+INC00753,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Medium,3 Days,2023-12-22,2024-01-02,11
+INC00754,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,Medium,3 Days,2023-12-28,2024-01-04,7
+INC00755,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,Critical,4 Hours,2023-12-28,2023-12-28,0
+INC00756,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,High,24 Hours,2023-12-26,2024-01-05,10
+INC00757,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Critical,4 Hours,2024-01-04,2024-01-06,2
+INC00758,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Critical,4 Hours,2024-01-04,2024-01-19,15
+INC00759,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Escalated,High,24 Hours,2023-12-18,2023-12-20,2
+INC00760,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,High,24 Hours,2023-12-20,2024-01-01,12
+INC00761,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Critical,4 Hours,2023-12-25,2024-01-07,13
+INC00762,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2024-01-02,2024-01-16,14
+INC00763,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Pending,Medium,3 Days,2023-12-11,2023-12-21,10
+INC00764,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,High,24 Hours,2023-12-27,2024-01-09,13
+INC00765,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Closed,Medium,3 Days,2023-12-21,2023-12-26,5
+INC00766,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Medium,3 Days,2023-12-17,2023-12-28,11
+INC00767,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Low,1 Week,2024-01-09,2024-01-24,15
+INC00768,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,Critical,4 Hours,2023-12-17,2023-12-22,5
+INC00769,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Resolved,Low,1 Week,2023-12-17,2023-12-31,14
+INC00770,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Escalated,High,24 Hours,2023-12-21,2023-12-29,8
+INC00771,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Escalated,Low,1 Week,2024-01-05,2024-01-20,15
+INC00772,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Low,1 Week,2023-12-17,2023-12-20,3
+INC00773,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Medium,3 Days,2023-12-20,2023-12-24,4
+INC00774,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,High,24 Hours,2024-01-01,2024-01-10,9
+INC00775,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2023-12-10,2023-12-23,13
+INC00776,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,Critical,4 Hours,2023-12-16,2023-12-17,1
+INC00777,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Low,1 Week,2023-12-11,2023-12-23,12
+INC00778,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Critical,4 Hours,2023-12-13,2023-12-18,5
+INC00779,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Critical,4 Hours,2023-12-14,2023-12-28,14
+INC00780,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,Medium,3 Days,2024-01-04,2024-01-18,14
+INC00781,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Critical,4 Hours,2023-12-16,2023-12-31,15
+INC00782,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,High,24 Hours,2024-01-08,2024-01-13,5
+INC00783,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Medium,3 Days,2024-01-07,2024-01-15,8
+INC00784,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,High,24 Hours,2023-12-13,2023-12-13,0
+INC00785,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Medium,3 Days,2023-12-12,2023-12-14,2
+INC00786,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2024-01-01,2024-01-10,9
+INC00787,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,Critical,4 Hours,2023-12-30,2024-01-05,6
+INC00788,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,High,24 Hours,2023-12-12,2023-12-24,12
+INC00789,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Pending,High,24 Hours,2024-01-07,2024-01-10,3
+INC00790,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Low,1 Week,2024-01-02,2024-01-16,14
+INC00791,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,Low,1 Week,2024-01-04,2024-01-12,8
+INC00792,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,High,24 Hours,2024-01-07,2024-01-08,1
+INC00793,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,High,24 Hours,2024-01-06,2024-01-16,10
+INC00794,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,Medium,3 Days,2023-12-24,2024-01-07,14
+INC00795,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,High,24 Hours,2023-12-15,2023-12-28,13
+INC00796,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Critical,4 Hours,2023-12-17,2023-12-24,7
+INC00797,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Medium,3 Days,2024-01-01,2024-01-09,8
+INC00798,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Low,1 Week,2023-12-10,2023-12-23,13
+INC00799,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Escalated,Critical,4 Hours,2023-12-21,2023-12-31,10
+INC00800,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2023-12-13,2023-12-17,4
+INC00801,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Critical,4 Hours,2023-12-23,2024-01-01,9
+INC00802,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,Low,1 Week,2024-01-03,2024-01-06,3
+INC00803,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Low,1 Week,2023-12-22,2023-12-30,8
+INC00804,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Closed,Critical,4 Hours,2024-01-02,2024-01-10,8
+INC00805,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Medium,3 Days,2023-12-26,2023-12-31,5
+INC00806,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Low,1 Week,2023-12-12,2023-12-22,10
+INC00807,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,High,24 Hours,2023-12-22,2023-12-22,0
+INC00808,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Medium,3 Days,2024-01-07,2024-01-12,5
+INC00809,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Escalated,High,24 Hours,2023-12-31,2024-01-15,15
+INC00810,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Medium,3 Days,2023-12-25,2023-12-27,2
+INC00811,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,Low,1 Week,2024-01-06,2024-01-09,3
+INC00812,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Low,1 Week,2024-01-03,2024-01-10,7
+INC00813,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,High,24 Hours,2023-12-30,2024-01-10,11
+INC00814,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,High,24 Hours,2024-01-08,2024-01-22,14
+INC00815,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Medium,3 Days,2023-12-27,2024-01-05,9
+INC00816,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Medium,3 Days,2023-12-14,2023-12-27,13
+INC00817,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,Low,1 Week,2023-12-12,2023-12-23,11
+INC00818,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Medium,3 Days,2023-12-25,2023-12-28,3
+INC00819,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Critical,4 Hours,2023-12-12,2023-12-27,15
+INC00820,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,Critical,4 Hours,2023-12-10,2023-12-25,15
+INC00821,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Closed,Low,1 Week,2023-12-18,2023-12-24,6
+INC00822,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Critical,4 Hours,2023-12-25,2023-12-26,1
+INC00823,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Resolved,High,24 Hours,2023-12-19,2023-12-24,5
+INC00824,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,High,24 Hours,2024-01-09,2024-01-13,4
+INC00825,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Escalated,Critical,4 Hours,2023-12-20,2023-12-22,2
+INC00826,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Medium,3 Days,2023-12-14,2023-12-20,6
+INC00827,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Critical,4 Hours,2023-12-19,2023-12-30,11
+INC00828,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Pending,High,24 Hours,2023-12-25,2023-12-29,4
+INC00829,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Escalated,Medium,3 Days,2024-01-08,2024-01-21,13
+INC00830,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Critical,4 Hours,2023-12-18,2023-12-19,1
+INC00831,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Resolved,High,24 Hours,2024-01-03,2024-01-06,3
+INC00832,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team D,Closed,Medium,3 Days,2023-12-15,2023-12-21,6
+INC00833,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Medium,3 Days,2023-12-16,2023-12-24,8
+INC00834,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Closed,Critical,4 Hours,2023-12-10,2023-12-15,5
+INC00835,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Escalated,High,24 Hours,2024-01-05,2024-01-18,13
+INC00836,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Closed,High,24 Hours,2023-12-17,2023-12-31,14
+INC00837,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Medium,3 Days,2023-12-26,2023-12-26,0
+INC00838,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,High,24 Hours,2024-01-07,2024-01-16,9
+INC00839,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Resolved,High,24 Hours,2023-12-14,2023-12-16,2
+INC00840,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,Critical,4 Hours,2024-01-03,2024-01-14,11
+INC00841,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Escalated,Low,1 Week,2024-01-04,2024-01-13,9
+INC00842,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,Low,1 Week,2023-12-25,2024-01-08,14
+INC00843,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Closed,High,24 Hours,2023-12-12,2023-12-27,15
+INC00844,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Low,1 Week,2023-12-16,2023-12-25,9
+INC00845,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Pending,Low,1 Week,2023-12-19,2023-12-19,0
+INC00846,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Low,1 Week,2023-12-29,2023-12-30,1
+INC00847,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Medium,3 Days,2024-01-09,2024-01-12,3
+INC00848,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Critical,4 Hours,2023-12-22,2023-12-28,6
+INC00849,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,Critical,4 Hours,2023-12-23,2024-01-02,10
+INC00850,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Medium,3 Days,2023-12-18,2023-12-21,3
+INC00851,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Low,1 Week,2024-01-04,2024-01-13,9
+INC00852,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,Critical,4 Hours,2023-12-26,2023-12-30,4
+INC00853,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2023-12-30,2024-01-04,5
+INC00854,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Closed,Medium,3 Days,2023-12-13,2023-12-24,11
+INC00855,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2023-12-11,2023-12-17,6
+INC00856,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Medium,3 Days,2023-12-28,2024-01-02,5
+INC00857,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Escalated,Critical,4 Hours,2023-12-22,2024-01-05,14
+INC00858,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Medium,3 Days,2023-12-30,2024-01-01,2
+INC00859,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Pending,Critical,4 Hours,2024-01-02,2024-01-02,0
+INC00860,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Low,1 Week,2023-12-10,2023-12-15,5
+INC00861,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Pending,Low,1 Week,2023-12-31,2024-01-11,11
+INC00862,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,High,24 Hours,2023-12-15,2023-12-19,4
+INC00863,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Critical,4 Hours,2023-12-27,2023-12-27,0
+INC00864,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,Medium,3 Days,2023-12-16,2023-12-21,5
+INC00865,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,High,24 Hours,2023-12-23,2023-12-27,4
+INC00866,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,High,24 Hours,2023-12-14,2023-12-29,15
+INC00867,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2023-12-13,2023-12-22,9
+INC00868,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Pending,Critical,4 Hours,2023-12-17,2023-12-17,0
+INC00869,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,Medium,3 Days,2023-12-31,2024-01-12,12
+INC00870,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2023-12-15,2023-12-22,7
+INC00871,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Escalated,Critical,4 Hours,2023-12-13,2023-12-28,15
+INC00872,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Escalated,Critical,4 Hours,2023-12-13,2023-12-28,15
+INC00873,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Low,1 Week,2024-01-09,2024-01-19,10
+INC00874,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,High,24 Hours,2023-12-14,2023-12-19,5
+INC00875,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Critical,4 Hours,2023-12-24,2024-01-04,11
+INC00876,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,Medium,3 Days,2023-12-18,2023-12-25,7
+INC00877,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Closed,Critical,4 Hours,2023-12-28,2024-01-09,12
+INC00878,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Closed,Medium,3 Days,2023-12-28,2024-01-05,8
+INC00879,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Escalated,Critical,4 Hours,2023-12-23,2023-12-23,0
+INC00880,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Pending,Medium,3 Days,2024-01-02,2024-01-07,5
+INC00881,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,Low,1 Week,2024-01-04,2024-01-05,1
+INC00882,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,High,24 Hours,2023-12-26,2023-12-29,3
+INC00883,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Resolved,High,24 Hours,2023-12-31,2024-01-10,10
+INC00884,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Closed,Medium,3 Days,2023-12-27,2023-12-30,3
+INC00885,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,Critical,4 Hours,2024-01-02,2024-01-13,11
+INC00886,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Critical,4 Hours,2023-12-24,2023-12-25,1
+INC00887,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Pending,Critical,4 Hours,2024-01-06,2024-01-14,8
+INC00888,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team C,Resolved,High,24 Hours,2023-12-24,2024-01-02,9
+INC00889,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Escalated,Low,1 Week,2024-01-09,2024-01-10,1
+INC00890,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Critical,4 Hours,2023-12-29,2024-01-07,9
+INC00891,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Critical,4 Hours,2023-12-31,2024-01-01,1
+INC00892,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Pending,Medium,3 Days,2024-01-02,2024-01-08,6
+INC00893,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Medium,3 Days,2023-12-16,2023-12-28,12
+INC00894,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Medium,3 Days,2023-12-12,2023-12-14,2
+INC00895,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Medium,3 Days,2023-12-20,2023-12-25,5
+INC00896,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Escalated,Critical,4 Hours,2023-12-12,2023-12-20,8
+INC00897,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Escalated,High,24 Hours,2023-12-22,2024-01-03,12
+INC00898,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Resolved,Low,1 Week,2023-12-14,2023-12-29,15
+INC00899,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,Critical,4 Hours,2024-01-04,2024-01-06,2
+INC00900,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,Medium,3 Days,2023-12-13,2023-12-18,5
+INC00901,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,Low,1 Week,2024-01-01,2024-01-13,12
+INC00902,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team D,Pending,Low,1 Week,2024-01-01,2024-01-13,12
+INC00903,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Escalated,High,24 Hours,2023-12-21,2023-12-24,3
+INC00904,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,High,24 Hours,2024-01-02,2024-01-14,12
+INC00905,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Pending,Low,1 Week,2024-01-02,2024-01-08,6
+INC00906,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Closed,Low,1 Week,2024-01-07,2024-01-16,9
+INC00907,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,Medium,3 Days,2023-12-28,2024-01-02,5
+INC00908,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Pending,Medium,3 Days,2023-12-12,2023-12-14,2
+INC00909,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Low,1 Week,2024-01-02,2024-01-12,10
+INC00910,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Medium,3 Days,2023-12-30,2024-01-04,5
+INC00911,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Critical,4 Hours,2024-01-06,2024-01-16,10
+INC00912,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Resolved,Low,1 Week,2023-12-14,2023-12-16,2
+INC00913,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Medium,3 Days,2023-12-10,2023-12-19,9
+INC00914,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Pending,High,24 Hours,2023-12-20,2023-12-31,11
+INC00915,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Resolved,Critical,4 Hours,2024-01-06,2024-01-07,1
+INC00916,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Resolved,Low,1 Week,2023-12-22,2024-01-04,13
+INC00917,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Medium,3 Days,2023-12-23,2024-01-03,11
+INC00918,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,High,24 Hours,2023-12-10,2023-12-21,11
+INC00919,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Medium,3 Days,2023-12-28,2024-01-05,8
+INC00920,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Resolved,Critical,4 Hours,2023-12-25,2023-12-31,6
+INC00921,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Pending,Medium,3 Days,2023-12-16,2023-12-20,4
+INC00922,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team B,Resolved,Low,1 Week,2023-12-29,2023-12-31,2
+INC00923,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Medium,3 Days,2024-01-01,2024-01-02,1
+INC00924,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Escalated,Low,1 Week,2023-12-27,2024-01-11,15
+INC00925,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Low,1 Week,2023-12-24,2023-12-30,6
+INC00926,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Closed,High,24 Hours,2024-01-05,2024-01-12,7
+INC00927,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,High,24 Hours,2023-12-17,2023-12-26,9
+INC00928,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Resolved,Low,1 Week,2023-12-11,2023-12-14,3
+INC00929,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Resolved,Low,1 Week,2023-12-23,2023-12-26,3
+INC00930,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Pending,Low,1 Week,2024-01-01,2024-01-01,0
+INC00931,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Critical,4 Hours,2023-12-28,2023-12-28,0
+INC00932,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Low,1 Week,2024-01-02,2024-01-09,7
+INC00933,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Escalated,High,24 Hours,2023-12-17,2024-01-01,15
+INC00934,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Low,1 Week,2023-12-31,2024-01-13,13
+INC00935,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Closed,Low,1 Week,2023-12-11,2023-12-22,11
+INC00936,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Closed,Low,1 Week,2023-12-14,2023-12-23,9
+INC00937,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,High,24 Hours,2023-12-17,2023-12-20,3
+INC00938,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Closed,Critical,4 Hours,2023-12-11,2023-12-26,15
+INC00939,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Closed,Critical,4 Hours,2024-01-04,2024-01-10,6
+INC00940,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Pending,Medium,3 Days,2023-12-17,2023-12-31,14
+INC00941,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,Medium,3 Days,2023-12-14,2023-12-16,2
+INC00942,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Pending,High,24 Hours,2023-12-20,2023-12-31,11
+INC00943,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Closed,Low,1 Week,2023-12-21,2023-12-29,8
+INC00944,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Resolved,Medium,3 Days,2023-12-22,2023-12-25,3
+INC00945,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team C,Pending,Low,1 Week,2023-12-11,2023-12-17,6
+INC00946,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Closed,Critical,4 Hours,2024-01-03,2024-01-08,5
+INC00947,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Resolved,Critical,4 Hours,2023-12-13,2023-12-14,1
+INC00948,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team B,Pending,High,24 Hours,2024-01-01,2024-01-02,1
+INC00949,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Escalated,Medium,3 Days,2023-12-31,2024-01-06,6
+INC00950,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Pending,High,24 Hours,2024-01-07,2024-01-10,3
+INC00951,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,High,24 Hours,2023-12-29,2024-01-12,14
+INC00952,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team C,Pending,High,24 Hours,2023-12-21,2023-12-31,10
+INC00953,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Closed,High,24 Hours,2023-12-29,2024-01-05,7
+INC00954,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Resolved,Medium,3 Days,2023-12-23,2024-01-04,12
+INC00955,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Escalated,High,24 Hours,2023-12-30,2024-01-11,12
+INC00956,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Resolved,Medium,3 Days,2023-12-30,2023-12-31,1
+INC00957,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team A,Resolved,Medium,3 Days,2023-12-11,2023-12-26,15
+INC00958,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Resolved,High,24 Hours,2023-12-17,2023-12-26,9
+INC00959,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Resolved,Critical,4 Hours,2023-12-24,2024-01-03,10
+INC00960,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team B,Pending,Medium,3 Days,2024-01-05,2024-01-09,4
+INC00961,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Critical,4 Hours,2023-12-10,2023-12-19,9
+INC00962,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Low,1 Week,2024-01-05,2024-01-13,8
+INC00963,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team A,Resolved,Medium,3 Days,2023-12-25,2024-01-08,14
+INC00964,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Closed,Medium,3 Days,2023-12-27,2024-01-07,11
+INC00965,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team D,Resolved,Low,1 Week,2023-12-19,2023-12-19,0
+INC00966,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,High,24 Hours,2023-12-23,2023-12-26,3
+INC00967,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team D,Escalated,Medium,3 Days,2024-01-06,2024-01-10,4
+INC00968,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team C,Closed,High,24 Hours,2023-12-17,2023-12-31,14
+INC00969,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team C,Pending,Low,1 Week,2023-12-12,2023-12-25,13
+INC00970,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Resolved,High,24 Hours,2024-01-03,2024-01-12,9
+INC00971,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team D,Escalated,High,24 Hours,2023-12-29,2024-01-13,15
+INC00972,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team C,Resolved,Low,1 Week,2023-12-10,2023-12-18,8
+INC00973,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team C,Closed,High,24 Hours,2023-12-23,2023-12-24,1
+INC00974,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team C,Escalated,High,24 Hours,2023-12-31,2024-01-12,12
+INC00975,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team A,Resolved,High,24 Hours,2023-12-18,2024-01-01,14
+INC00976,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Escalated,High,24 Hours,2023-12-27,2023-12-30,3
+INC00977,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Pending,Medium,3 Days,2023-12-12,2023-12-18,6
+INC00978,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Resolved,Low,1 Week,2023-12-18,2023-12-21,3
+INC00979,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team A,Closed,Critical,4 Hours,2023-12-25,2024-01-09,15
+INC00980,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Resolved,Medium,3 Days,2023-12-17,2023-12-30,13
+INC00981,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Resolved,Critical,4 Hours,2024-01-03,2024-01-12,9
+INC00982,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Escalated,High,24 Hours,2023-12-16,2023-12-16,0
+INC00983,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Escalated,Medium,3 Days,2023-12-14,2023-12-19,5
+INC00984,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Pending,Medium,3 Days,2023-12-22,2023-12-25,3
+INC00985,There's a strange error message when I open a program,Please send us the error message so we can investigate further.,Team D,Closed,High,24 Hours,2023-12-19,2023-12-21,2
+INC00986,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Resolved,Critical,4 Hours,2024-01-01,2024-01-04,3
+INC00987,My application settings keep resetting,Ensure you have the latest version of the app and you save the settings before closing.,Team A,Closed,Medium,3 Days,2023-12-12,2023-12-14,2
+INC00988,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team D,Pending,Critical,4 Hours,2024-01-07,2024-01-12,5
+INC00989,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Closed,Medium,3 Days,2023-12-17,2023-12-29,12
+INC00990,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team B,Resolved,Critical,4 Hours,2024-01-07,2024-01-14,7
+INC00991,I can't find my product key for the software,The product key is usually in the purchase confirmation email or on the software box.,Team B,Closed,Critical,4 Hours,2023-12-30,2024-01-06,7
+INC00992,My antivirus software is not updating,Try restarting your system and then update the antivirus software.,Team B,Escalated,Critical,4 Hours,2023-12-24,2024-01-02,9
+INC00993,My email client keeps crashing,Please check for any updates available for the email client and install them.,Team B,Escalated,Low,1 Week,2023-12-31,2024-01-10,10
+INC00994,I am unable to log in to my application,"Make sure you're using the correct username and password, and check if caps lock is off.",Team A,Resolved,Medium,3 Days,2023-12-28,2024-01-08,11
+INC00995,The software I use is running very slowly,Check if your system meets the minimum requirements for the software.,Team A,Pending,Critical,4 Hours,2024-01-05,2024-01-18,13
+INC00996,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team A,Pending,Critical,4 Hours,2024-01-06,2024-01-17,11
+INC00997,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,Critical,4 Hours,2023-12-31,2024-01-15,15
+INC00998,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team D,Closed,Critical,4 Hours,2023-12-22,2023-12-23,1
+INC00999,I'm facing issues with installing a software,Ensure you have the necessary permissions and the correct installer version.,Team B,Resolved,Critical,4 Hours,2023-12-10,2023-12-10,0
