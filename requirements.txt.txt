@@ -1,0 +1,7 @@
+requests
+numpy
+matplotlib
+python-dotenv
+ibm-watson-machine-learning
+sentence-transformers
+scikit-learn
